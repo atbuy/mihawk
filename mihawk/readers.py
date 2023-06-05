@@ -1,6 +1,6 @@
 from xml.dom import minidom
 
-from mihawk import Point
+from mihawk.models import Point
 
 
 class KMLReader:
