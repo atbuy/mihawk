@@ -16,7 +16,7 @@ class KMLReader:
             values = self._clean_coords(text)
             coords.append(values)
 
-        self.coords = coords
+        self.points = coords
 
     def _clean_coords(self, text: str) -> list:
         """Clean coordinates from KML file."""
