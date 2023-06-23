@@ -11,10 +11,11 @@ class KMLReader:
         coordinates = dom.getElementsByTagName("coordinates")
 
         coords = []
-        for coord in coordinates:
+        for coord in enumerate(coordinates):
             text = coord.firstChild.nodeValue
             values = self._clean_coords(text)
-            coords.append(values)
+            point = Point(*values)
+            coords.append(point)
 
         self.points = coords
 
@@ -23,4 +24,4 @@ class KMLReader:
 
         coordinates = text.split(",")
         cleaned = (float(coord) for coord in coordinates)
-        return Point(*cleaned)
+        return cleaned
