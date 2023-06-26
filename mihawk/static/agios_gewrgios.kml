@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Agios_Georgios_Bins" id="Agios_Georgios_Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Agios_Georgios_Bins</name>
+  <Placemark>
+	<name>523</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">61.735649000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:10:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4101949867021,40.9409169808368,61.735649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>524</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">53.342381000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:11:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4105019867023,40.9406339808371,53.342381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>525</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">77.049118000000007</SimpleData>
+		<SimpleData name="time">2015/04/21 04:12:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108939867024,40.9403829808373,77.049118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>526</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">67.104042000000007</SimpleData>
+		<SimpleData name="time">2015/04/21 04:14:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119879867022,40.9399719808374,67.104042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>527</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">66.539467000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:14:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119879867022,40.9399699808374,66.539467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>528</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">46.250069000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:15:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4129339867014,40.9399989808367,46.250069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>529</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">43.745063999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 04:16:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4131879867012,40.9399929808365,43.745064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>530</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">43.708168000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:16:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4131919867012,40.9399949808365,43.708168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>531</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">61.630161000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:19:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4141609866999,40.9403259808352,61.630161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>532</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">48.313782000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:20:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4139079867007,40.9399539808361,48.313782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>533</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">31.377506000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 04:21:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135609867016,40.9395289808372,31.377506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>534</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">31.551044000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:21:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135579867016,40.9395349808372,31.551044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>535</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">34.328045000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:24:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4143669867014,40.9392919808371,34.328045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>536</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">41.433067000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:25:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4145339867014,40.9392059808371,41.433067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>537</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">36.286980000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 04:26:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4148359867014,40.9390269808373,36.28698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>538</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">25.867564999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 04:27:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4143369867025,40.9386089808384,25.867565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>539</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">32.606838000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:28:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138079867041,40.9378289808403,32.606838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>540</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">32.948543999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 04:28:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138099867041,40.9378299808403,32.948544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>541</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">24.473482000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:29:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4142939867041,40.9375799808405,24.473482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>542</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">67.868438999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 04:34:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4161349866982,40.9404279808336,67.868439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>543</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">67.926833999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 04:34:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4161379866982,40.9404239808337,67.926834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>544</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">61.108424999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 04:36:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4156009866994,40.9398919808351,61.108425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>545</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">60.796925000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:36:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4155879866994,40.9399009808351,60.796925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>546</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">46.076327999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 04:37:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4148759867002,40.9397619808358,46.076328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>547</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">47.512507999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 04:38:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4146499867008,40.9394829808365,47.512508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>548</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">23.248695000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:45:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4063049867068,40.9398829808415,23.248695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>549</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">23.549479999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 04:45:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4063129867068,40.9398739808415,23.54948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>550</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">30.635399000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 04:46:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4065749867069,40.9396839808417,30.635399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>551</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">27.325668000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 04:47:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067439867072,40.9394049808421,27.325668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>552</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">27.565674000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:47:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067489867072,40.9394029808421,27.565674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>553</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">32.450985000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:51:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4077549867049,40.9403619808395,32.450985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>554</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">42.395954000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 04:52:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4079959867046,40.9403969808393,42.395954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>555</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">40.509399000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:53:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4086089867037,40.9406799808383,40.509399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>556</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">40.608367999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 04:53:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4086039867037,40.9406849808383,40.608368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>557</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">48.566631000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 04:56:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4095189867024,40.941044980837,48.566631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>558</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">59.223568000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 04:57:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4100549867027,40.9405539808376,59.223568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>559</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">56.629364000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:58:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4102259867026,40.9405399808375,56.629364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>560</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">54.538620000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 04:59:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4104439867027,40.9403919808376,54.53862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>561</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">52.568741000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 05:00:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108179867029,40.9401069808379,52.568741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>562</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">52.122504999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 05:01:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113179867025,40.9400559808377,52.122505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>563</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">43.922671999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 05:02:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4117209867027,40.939750980838,43.922672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>564</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">34.459342999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 05:03:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4122509867024,40.9396629808378,34.459343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>565</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">35.367756000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 05:03:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4125619867023,40.9396299808377,35.367756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>566</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">26.440021999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 05:04:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4130109867019,40.9396449808373,26.440022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>567</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">82.042381000000006</SimpleData>
+		<SimpleData name="time">2015/04/21 05:47:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4156519866973,40.9411819808325,82.042381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>568</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">82.118622000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 05:47:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4156459866973,40.9411819808325,82.118622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>569</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">84.651557999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 05:49:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.415036986697,40.941692980832,84.651558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>570</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">91.246619999999993</SimpleData>
+		<SimpleData name="time">2015/04/21 05:50:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4144179866968,40.9421449808315,91.24662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>571</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">91.251548999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 05:50:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4144179866968,40.9421469808315,91.251549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>572</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">101.373428000000004</SimpleData>
+		<SimpleData name="time">2015/04/21 05:53:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4130049866983,40.941870980833,101.373428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>573</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">101.405838000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 05:53:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4129999866983,40.941867980833,101.405838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>574</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">109.966804999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 05:54:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4122859866988,40.9419029808334,109.966805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>575</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">111.279503000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 05:56:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4122879866984,40.9421549808329,111.279503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>576</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">107.123039000000006</SimpleData>
+		<SimpleData name="time">2015/04/21 05:57:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4116809866988,40.9422549808331,107.123039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>577</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">105.732178000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 05:58:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113209866986,40.9425469808328,105.732178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>578</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">109.724068000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 05:59:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4112059866977,40.9431289808318,109.724068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>579</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">114.857574000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 06:01:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099309866979,40.9436589808316,114.857574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>580</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">113.647109999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 06:02:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096399866979,40.9437719808316,113.64711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>581</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">125.247696000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 06:03:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4090389866978,40.9441789808312,125.247696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>582</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">123.622353000000004</SimpleData>
+		<SimpleData name="time">2015/04/21 06:04:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4085399866993,40.9434919808329,123.622353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>583</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">116.795197000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 06:07:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4089419866995,40.9431319808333,116.795197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>584</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">126.800903000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 06:07:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092059866991,40.9432489808329,126.800903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>585</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">113.051345999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 06:09:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081929867003,40.9429889808341,113.051346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>586</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">101.628760999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 06:10:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4075679867007,40.9430799808344,101.628761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>587</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">109.084273999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 06:12:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069809866985,40.9447429808315,109.084274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>588</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">96.160331999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 06:13:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4072929866996,40.943866980833,96.160332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>589</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">92.053009000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 06:14:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4062739866997,40.9443459808328,92.053009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>590</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">94.263000000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 06:15:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4060659866995,40.9445939808325,94.263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>591</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">94.610291000000004</SimpleData>
+		<SimpleData name="time">2015/04/21 06:16:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054459866993,40.9449719808322,94.610291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>592</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">94.220046999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 06:16:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054189866994,40.9449559808322,94.220047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>593</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">105.757544999999993</SimpleData>
+		<SimpleData name="time">2015/04/21 06:17:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.407257986702,40.9424009808359,105.757545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>594</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">103.958083999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 06:18:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4070299867025,40.9421849808365,103.958084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>595</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">104.102035999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 06:18:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4070259867025,40.9421899808365,104.102036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>596</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">90.066376000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 06:21:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4071119867005,40.943409980834,90.066376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>597</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">84.922820999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 06:22:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4066879867003,40.9437329808337,84.922821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>598</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">82.860129999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 06:23:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067119867008,40.9433989808343,82.86013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>599</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">75.127373000000006</SimpleData>
+		<SimpleData name="time">2015/04/21 06:24:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406757986701,40.9432609808346,75.127373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>600</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">79.909026999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 06:25:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4061019867027,40.9425709808364,79.909027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>601</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">78.403198000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 06:26:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4058529867035,40.9421549808373,78.403198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>602</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">73.852051000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 06:27:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406435986704,40.941586980838,73.852051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>603</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">71.608170000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 06:28:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4068079867039,40.9414399808381,71.60817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>604</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">64.576569000000006</SimpleData>
+		<SimpleData name="time">2015/04/21 06:29:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4073909867035,40.9413879808378,64.576569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>605</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">64.315567000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 06:30:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081369867029,40.9413909808373,64.315567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>606</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">63.944305000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 06:30:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081569867029,40.9413949808373,63.944305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>607</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">103.409194999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 06:34:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4079149867013,40.9424959808353,103.409195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>608</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">95.626143999999996</SimpleData>
+		<SimpleData name="time">2015/04/21 06:36:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.408326986701,40.942492980835,95.626144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>609</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">91.048302000000007</SimpleData>
+		<SimpleData name="time">2015/04/21 06:36:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4088229867004,40.9426259808344,91.048302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>610</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">93.386139000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 06:39:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.407909986702,40.9420849808361,93.386139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>611</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">88.986014999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 06:40:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080599867024,40.9417849808366,88.986015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>612</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">83.265822999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 06:40:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.408448986702,40.9417929808363,83.265823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>613</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">69.097938999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 06:42:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091849867014,40.9418589808356,69.097939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>614</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">53.916457999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 06:47:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4098939867016,40.9413869808361,53.916458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>615</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">61.789867000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 06:49:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4109599867018,40.9407169808367,61.789867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>616</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">59.778708999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 06:50:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113939867019,40.9404499808369,59.778709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>617</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">63.347110999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 06:52:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4103349867015,40.9411719808362,63.347111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>618</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">89.999831999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 07:43:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4146309866976,40.9415339808325,89.999832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>619</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">85.689514000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 07:44:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4148529866978,40.9412889808329,85.689514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>620</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">76.846191000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 07:45:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4144109866981,40.9413029808331,76.846191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>621</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">76.904799999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 07:45:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4144099866981,40.9413019808331,76.9048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>622</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">84.878913999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 07:47:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4142199866976,40.9417229808325,84.878914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>623</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">82.885024999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 07:47:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4140089866981,40.9414859808331,82.885025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>624</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">89.474181999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 07:50:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135529866985,40.9414669808334,89.474182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>625</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">89.740516999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 07:53:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4126459866996,40.9412599808344,89.740517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>626</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">83.759827000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 07:55:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4124089867003,40.9409149808353,83.759827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>627</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">75.182311999999996</SimpleData>
+		<SimpleData name="time">2015/04/21 07:56:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.412137986701,40.940634980836,75.182312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>628</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">84.815674000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 07:57:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4117319867007,40.9410239808355,84.815674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>629</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">86.139908000000005</SimpleData>
+		<SimpleData name="time">2015/04/21 07:58:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4114499867006,40.9412319808353,86.139908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>630</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">94.515090999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 08:00:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4114719867,40.9415549808347,94.515091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>631</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">94.035544999999999</SimpleData>
+		<SimpleData name="time">2015/04/21 08:01:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4111269867,40.9417689808345,94.035545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>632</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">84.383529999999993</SimpleData>
+		<SimpleData name="time">2015/04/21 08:02:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4101479866999,40.9422799808342,84.38353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>633</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">80.038894999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 08:04:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097709867,40.9424439808341,80.038895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>634</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">80.664863999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 08:04:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4094719867005,40.9422399808347,80.664864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>635</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">63.123936000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 08:05:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.409968986701,40.9416809808355,63.123936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>636</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">67.108704000000003</SimpleData>
+		<SimpleData name="time">2015/04/21 08:06:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.410477986701,40.9414379808356,67.108704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>637</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">99.586585999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 08:10:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119719866997,40.9415339808344,99.586586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>638</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">99.309669000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 08:10:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119989866997,40.9415199808344,99.309669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>639</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">106.278296999999995</SimpleData>
+		<SimpleData name="time">2015/04/21 08:13:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4126779866989,40.9416829808336,106.278297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>640</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">96.824676999999994</SimpleData>
+		<SimpleData name="time">2015/04/21 08:14:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4130029866988,40.9415729808336,96.824677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>641</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">67.164299000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 08:17:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4140759866987,40.9411079808337,67.164299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>642</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">70.982697000000002</SimpleData>
+		<SimpleData name="time">2015/04/21 08:18:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4143089866989,40.9408409808341,70.982697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>643</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">70.046616000000000</SimpleData>
+		<SimpleData name="time">2015/04/21 08:19:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4146409866989,40.9406639808342,70.046616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>644</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">66.931106999999997</SimpleData>
+		<SimpleData name="time">2015/04/21 08:20:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4149999866991,40.9403969808345,66.931107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>645</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">52.269683999999998</SimpleData>
+		<SimpleData name="time">2015/04/21 08:21:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4146689866999,40.9400419808354,52.269684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>646</name>
+	<ExtendedData><SchemaData schemaUrl="#Agios_Georgios_Bins">
+		<SimpleData name="ele">52.961559000000001</SimpleData>
+		<SimpleData name="time">2015/04/21 08:22:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4147709867001,40.9398879808357,52.961559</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
