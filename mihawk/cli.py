@@ -1,6 +1,7 @@
+import time
 from pathlib import Path
 
-from mihawk.graphs import KMLGraph
+from mihawk.graphs import NearestNeighborGraph
 from mihawk.readers import KMLReader
 
 
@@ -14,7 +15,14 @@ def main():
         data = KMLReader(file)
 
     # Structure points into a graph
-    graph = KMLGraph(data.points)
+    start = time.perf_counter()
+    graph = NearestNeighborGraph(data.points)
+    delta = time.perf_counter() - start
+
+    # print(f"Path: {graph.path}")
+    print(f"Graph: {graph}")
+    print(f"Time: {delta:.5f}s")
+
     graph.visualize()
 
 
