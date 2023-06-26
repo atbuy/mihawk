@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document id="root_doc">
+		<Schema name="test_schema" id="test_schema">
+			<SimpleField name="ele" type="float"></SimpleField>
+			<SimpleField name="time" type="string"></SimpleField>
+			<SimpleField name="magvar" type="float"></SimpleField>
+			<SimpleField name="geoidheigh" type="float"></SimpleField>
+			<SimpleField name="cmt" type="string"></SimpleField>
+			<SimpleField name="desc" type="string"></SimpleField>
+			<SimpleField name="src" type="string"></SimpleField>
+			<SimpleField name="link1_href" type="string"></SimpleField>
+			<SimpleField name="link1_text" type="string"></SimpleField>
+			<SimpleField name="link1_type" type="string"></SimpleField>
+			<SimpleField name="link2_href" type="string"></SimpleField>
+			<SimpleField name="link2_text" type="string"></SimpleField>
+			<SimpleField name="link2_type" type="string"></SimpleField>
+			<SimpleField name="sym" type="string"></SimpleField>
+			<SimpleField name="type" type="string"></SimpleField>
+			<SimpleField name="fix" type="string"></SimpleField>
+			<SimpleField name="sat" type="float"></SimpleField>
+			<SimpleField name="hdop" type="float"></SimpleField>
+			<SimpleField name="vdop" type="float"></SimpleField>
+			<SimpleField name="pdop" type="float"></SimpleField>
+			<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+			<SimpleField name="dgpsid" type="float"></SimpleField>
+		</Schema>
+		<Folder>
+			<name>Test</name>
+			<Placemark>
+				<name>523</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#test_schema">
+						<SimpleData name="ele">123</SimpleData>
+						<SimpleData name="time">2015/04/21 04:10:58.000</SimpleData>
+						<SimpleData name="sym">Flag, Blue</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>24.4101949867021,40.9409169808368,61.735649</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
