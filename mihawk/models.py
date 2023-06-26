@@ -1,4 +1,3 @@
-import math
 import uuid
 from dataclasses import dataclass
 from typing import List
@@ -11,7 +10,6 @@ class Point:
     latitude: float
     longitude: float
     elevation: float
-    closest: "Point" = None
 
     def __post_init__(self):
         """Generate a UUID for the object."""
@@ -34,7 +32,7 @@ class Point:
         lon = (self.longitude - other.longitude) ** 2
         ele = (self.elevation - other.elevation) ** 2
 
-        return math.sqrt(lat + lon + ele)
+        return (lat + lon + ele) ** 0.5
 
     def __hash__(self):
         """Return a hash of the UUID of the object."""
