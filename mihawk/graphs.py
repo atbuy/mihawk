@@ -80,21 +80,7 @@ class NearestNeighborGraph(KMLGraph):
         # and each point's closest neighbor.
         graph = {}
         for point in self.points:
-            least_distance = float("inf")
-            graph[point] = []
-            for other in self.points:
-                if point == other:
-                    continue
-
-                distance = get_distance(point, other)
-                graph[point].append(other)
-
-                # Check if the distance is less than the current least distance
-                if distance < least_distance:
-                    least_distance = distance
-                    point.closest = other
-
-            # Sort each point's neighbors by distance
+            graph[point] = self.points.copy()
             graph[point].sort(key=lambda x: get_distance(point, x))
 
         return graph
@@ -138,12 +124,12 @@ class NearestNeighborGraph(KMLGraph):
         normal_y = Y[1:end_y]
         normal_z = Z[1:end_z]
 
+        ax.scatter(X[0], Y[0], Z[0], color="red")
+        ax.scatter(X[-1], Y[-1], Z[-1], color="red")
         ax.scatter(normal_x, normal_y, normal_z, linewidth=0.5)
-        ax.scatter(X[0], Y[0], Z[0], linewidth=0.5, color="green")
-        ax.scatter(X[-1], Y[-1], Z[-1], linewidth=0.5, color="red")
-        ax.plot(X, Y, Z, linewidth=0.5, color="black")
+        ax.plot(X, Y, Z, linewidth=0.5)
 
-        ax.view_init(20, -140)
+        ax.view_init(30, -115)
 
         plt.title("Nearest Neighbor Graph")
         plt.tight_layout()
