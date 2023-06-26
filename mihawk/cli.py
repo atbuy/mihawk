@@ -9,7 +9,10 @@ def main():
     cwd = Path(__file__).parent.absolute()
     filename = cwd.joinpath("static", "agios_gewrgios.kml")
 
-    KMLReader(filename)
+    with open(filename) as file:
+        data = KMLReader(file)
+
+    print(data.coords[0])
 
 
 if __name__ == "__main__":
