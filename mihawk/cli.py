@@ -1,5 +1,6 @@
 from pathlib import Path
 
+from mihawk.graphs import KMLGraph
 from mihawk.readers import KMLReader
 
 
@@ -12,7 +13,9 @@ def main():
     with open(filename) as file:
         data = KMLReader(file)
 
-    print(data.coords[0])
+    # Structure points into a graph
+    graph = KMLGraph(data.points)
+    graph.visualize()
 
 
 if __name__ == "__main__":

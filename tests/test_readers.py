@@ -17,7 +17,7 @@ class TestReaders(TestCase):
     def test_point(self):
         """Check the coordinates of the first point."""
 
-        point = self.data.coords[0]
+        point: Point = self.data.points[0]
         self.assertEqual(point.latitude, 24.4101949867021)
         self.assertEqual(point.longitude, 40.9409169808368)
         self.assertEqual(point.elevation, 61.735649)
