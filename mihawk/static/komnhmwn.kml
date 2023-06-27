@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Komninon_Bins" id="Komninon_Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Komninon_Bins</name>
+  <Placemark>
+	<name>646</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">32.974975999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 04:13:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4148579867015,40.9389659808374,32.974976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>647</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">21.558333999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:17:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4090769867051,40.9395479808402,21.558334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>648</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">30.012405000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:18:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091629867051,40.9395369808402,30.012405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>649</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">22.001971999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:20:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4079869867051,40.9400949808399,22.001972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>650</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">20.696753999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:22:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4082889867047,40.9402169808394,20.696754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>651</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">29.110558000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:23:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4087389867046,40.9400269808395,29.110558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>652</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">28.772628999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 04:23:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4087319867046,40.9400209808395,28.772629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>653</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">30.556474999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:25:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4088119867048,40.9398709808398,30.556475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>654</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">44.736668000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 04:28:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4022979867106,40.939490980845,44.736668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>655</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">56.010784000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:29:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4030789867094,40.9398519808437,56.010784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>656</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">51.748061999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 04:31:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4034859867096,40.9395269808441,51.748062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>657</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">45.910671000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:34:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4036899867099,40.9391899808446,45.910671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>658</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">45.614531999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 04:34:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.40369598671,40.9391739808447,45.614532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>659</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">42.800770000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:37:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4028279867117,40.9385069808465,42.80077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>660</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">46.750183000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:38:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4027109867122,40.9382709808471,46.750183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>661</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">46.753020999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 04:38:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4026939867122,40.9382799808471,46.753021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>662</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">45.254657999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:39:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4025819867123,40.9382459808472,45.254658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>663</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">40.511799000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 04:40:13.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4025829867126,40.9380509808476,40.511799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>664</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">38.898552000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 04:42:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018809867137,40.9377249808487,38.898552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>665</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">37.477238000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:43:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018999867138,40.9376709808488,37.477238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>666</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">33.106236000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 04:44:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4021229867135,40.9377569808485,33.106236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>667</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">27.724905000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:45:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4024629867132,40.9377569808482,27.724905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>668</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">13.539149999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:47:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4032499867125,40.9378229808476,13.53915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>669</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">-0.491447000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:48:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4032609867125,40.9378249808476,-0.491447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>670</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">24.645325000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:49:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4037119867121,40.9378169808473,24.645325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>671</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">24.746272999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:49:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4037119867121,40.9378209808473,24.746273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>672</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">18.562152999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:50:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4039469867111,40.9383599808461,18.562153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>673</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">18.271975000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:50:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4039629867111,40.9383379808461,18.271975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>674</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">33.706511999999996</SimpleData>
+		<SimpleData name="time">2015/04/24 04:51:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043509867119,40.9376579808471,33.706512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>675</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">38.289433000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 04:53:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4045309867115,40.9378089808467,38.289433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>676</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">38.471687000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 04:53:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4045509867115,40.9378099808467,38.471687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>677</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">46.495154999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 04:56:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4049779867105,40.9382139808456,46.495155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>678</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">46.323242000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 04:56:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4049929867105,40.9382189808456,46.323242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>679</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">46.085548000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 04:56:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050189867104,40.9382279808456,46.085548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>680</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">49.824795000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 04:58:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050929867104,40.9382039808456,49.824795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>681</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">49.915607000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 04:58:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4051059867104,40.9382059808456,49.915607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>682</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">49.609256999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 04:58:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4051379867104,40.9382199808455,49.609257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>683</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">32.047249000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:03:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012499867154,40.9369849808506,32.047249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>684</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">32.042202000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:04:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012189867156,40.9368739808508,32.042202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>685</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">54.311356000000004</SimpleData>
+		<SimpleData name="time">2015/04/24 05:08:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4007919867177,40.9357519808533,54.311356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>686</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">54.355186000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:08:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4008099867177,40.9357759808532,54.355186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>687</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">62.172423999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 05:10:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4007869867178,40.9357229808534,62.172424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>688</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">8.633953000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 05:13:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3994919867183,40.9360209808537,8.633953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>689</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">11.257599000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:15:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.399124986718,40.9364059808532,11.257599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>690</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">14.807281000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 05:15:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3988259867179,40.936584980853,14.807281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>691</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">14.124949000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:17:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3979919867183,40.9367489808533,14.124949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>692</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">71.629165999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 05:26:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3888059867293,40.9344159808641,71.629166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>693</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">86.076080000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 05:29:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3865759867329,40.9332929808679,86.07608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>694</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">77.762146000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:30:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3871459867324,40.9333239808674,77.762146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>695</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">74.897041000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 05:31:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3874919867318,40.9334879808668,74.897041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>696</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">79.586037000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 05:32:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3874679867311,40.9339549808659,79.586037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>697</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">78.501923000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 05:33:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.387836986731,40.9338469808659,78.501923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>698</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">67.531006000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 05:36:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3888719867303,40.9337659808654,67.531006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>699</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">69.827454000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:37:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3892989867304,40.9334809808656,69.827454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>700</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">47.582442999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 05:39:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3903679867302,40.9330609808657,47.582443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>701</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">33.439475999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 05:40:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3911049867301,40.9327849808657,33.439476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>702</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">24.353702999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 05:41:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3914149867303,40.9325059808661,24.353703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>703</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">30.138676000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 05:42:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3916639867302,40.932427980866,30.138676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>704</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">21.560832999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 05:44:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3921379867299,40.9323949808658,21.560833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>705</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">40.919125000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:46:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3915469867298,40.9327539808655,40.919125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>706</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">56.128483000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:49:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3903869867293,40.9336499808645,56.128483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>707</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">53.472343000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 05:49:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3906259867289,40.9337589808642,53.472343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>708</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">48.916977000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:51:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3911099867288,40.9335699808642,48.916977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>709</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">36.263119000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 05:52:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.391784986729,40.9331109808646,36.263119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>710</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">56.513916000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 05:55:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3910139867284,40.9338979808636,56.513916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>711</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">56.878883000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 05:56:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3913269867285,40.9336739808639,56.878883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>712</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">43.563786000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 05:57:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3915609867287,40.9333999808642,43.563786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>713</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">28.385826000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 05:58:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3920919867284,40.9333629808639,28.385826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>714</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">29.642586000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 05:59:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3924669867288,40.9328939808646,29.642586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>715</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">31.192810000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 06:00:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3915279867278,40.9340079808631,31.19281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>716</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">14.091075999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 06:06:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3889089867394,40.9280309808765,14.091076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>717</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">13.076079999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 06:07:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3889049867394,40.9280349808765,13.07608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>718</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">48.091788999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 07:13:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091359867025,40.941164980837,48.091789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>719</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">47.728259999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 07:14:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4085929867032,40.9409709808378,47.72826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>720</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">51.743766999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 07:15:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4079239867036,40.9410659808381,51.743767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>721</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">51.055332000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 07:16:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4073629867041,40.9410219808385,51.055332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>722</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">49.690807000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 07:17:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069549867048,40.9408239808392,49.690807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>723</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">57.607098000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 07:18:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4072799867048,40.9406699808393,57.607098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>724</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">53.764201999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 07:19:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4066899867048,40.9409639808391,53.764202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>725</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">53.876697999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 07:21:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4059869867047,40.9413639808388,53.876698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>726</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">52.170665999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 07:23:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4052839867045,40.9418219808384,52.170666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>727</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">84.241355999999996</SimpleData>
+		<SimpleData name="time">2015/04/24 07:27:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4047409867031,40.9429749808365,84.241356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>728</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">74.564766000000006</SimpleData>
+		<SimpleData name="time">2015/04/24 07:29:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043419867043,40.9424259808379,74.564766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>729</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">69.794464000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 07:29:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4042519867048,40.9421349808385,69.794464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>730</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">60.527222000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 07:30:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4040649867054,40.9418679808391,60.527222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>731</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">85.787414999999996</SimpleData>
+		<SimpleData name="time">2015/04/24 07:34:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4036919867054,40.942050980839,85.787415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>732</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">65.040358999999995</SimpleData>
+		<SimpleData name="time">2015/04/24 07:35:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4034079867062,40.94165998084,65.040359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>733</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">112.086303999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 07:37:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4003479867079,40.9421519808411,112.086304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>734</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">80.158462999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 07:40:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4007759867096,40.9408429808434,80.158463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>735</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">80.546859999999995</SimpleData>
+		<SimpleData name="time">2015/04/24 07:41:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012179867093,40.9408349808431,80.54686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>736</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">75.852401999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 07:41:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4020219867094,40.9403389808435,75.852402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>737</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">56.504471000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 07:43:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4023929867098,40.9399009808441,56.504471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>738</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">66.594879000000006</SimpleData>
+		<SimpleData name="time">2015/04/24 07:44:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4019099867106,40.9396419808449,66.594879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>739</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">87.071938000000003</SimpleData>
+		<SimpleData name="time">2015/04/24 07:45:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4014039867113,40.9394959808456,87.071938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>740</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">97.913589000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 07:50:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3915259867143,40.9424739808466,97.913589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>741</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">111.977333000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 07:52:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3909659867149,40.9424059808471,111.977333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>742</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">112.271056999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 07:53:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.391797986714,40.9425479808462,112.271057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>743</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">125.853515999999999</SimpleData>
+		<SimpleData name="time">2015/04/24 07:58:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.399038986709,40.9420869808422,125.853516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>744</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">126.933929000000006</SimpleData>
+		<SimpleData name="time">2015/04/24 07:59:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.39954998671,40.9412199808435,126.933929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>745</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">123.400268999999994</SimpleData>
+		<SimpleData name="time">2015/04/24 08:00:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3995759867089,40.9418719808422,123.400269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>746</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">129.445053000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 08:01:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.399393986708,40.942550980841,129.445053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>747</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">123.159271000000004</SimpleData>
+		<SimpleData name="time">2015/04/24 08:04:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3995879867068,40.9431819808397,123.159271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>748</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">116.257026999999994</SimpleData>
+		<SimpleData name="time">2015/04/24 08:06:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4000359867076,40.9425019808407,116.257027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>749</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">114.838950999999994</SimpleData>
+		<SimpleData name="time">2015/04/24 08:07:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4001529867072,40.9426809808402,114.838951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>750</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">111.463538999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 08:08:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4006109867061,40.943154980839,111.463539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>751</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">114.301070999999993</SimpleData>
+		<SimpleData name="time">2015/04/24 08:08:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4006019867061,40.9431059808391,114.301071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>752</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">117.594307000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 08:10:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.401433986705,40.943381980838,117.594307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>753</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">115.554710000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 08:11:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018329867046,40.9434879808375,115.55471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>754</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">122.220923999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 08:12:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4026599867029,40.9441019808358,122.220924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>755</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">120.430756000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 08:14:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4035109867012,40.9447739808339,120.430756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>756</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">117.315207999999998</SimpleData>
+		<SimpleData name="time">2015/04/24 08:14:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.403805986702,40.9441449808349,117.315208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>757</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">111.666100000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 08:15:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4030589867029,40.9439489808358,111.6661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>758</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">123.187111000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 08:17:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.402916986701,40.9451519808335,123.187111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>759</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">128.848357999999990</SimpleData>
+		<SimpleData name="time">2015/04/24 08:17:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4029669867007,40.9453619808331,128.848358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>760</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">137.758057000000008</SimpleData>
+		<SimpleData name="time">2015/04/24 08:19:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4035719866992,40.9459729808315,137.758057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>761</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">120.541893000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 08:20:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4033659867006,40.9451939808331,120.541893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>762</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">115.912064000000001</SimpleData>
+		<SimpleData name="time">2015/04/24 08:21:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4038789867002,40.9451749808328,115.912064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>763</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">100.902039000000002</SimpleData>
+		<SimpleData name="time">2015/04/24 08:22:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043859866997,40.9452799808323,100.902039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>764</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">101.919562999999997</SimpleData>
+		<SimpleData name="time">2015/04/24 08:22:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4047079866999,40.9449609808327,101.919563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>765</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">101.515548999999993</SimpleData>
+		<SimpleData name="time">2015/04/24 08:23:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4049799867002,40.944674980833,101.515549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>766</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">98.141479000000004</SimpleData>
+		<SimpleData name="time">2015/04/24 08:24:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050019867004,40.9445399808333,98.141479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>767</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">99.020874000000006</SimpleData>
+		<SimpleData name="time">2015/04/24 08:25:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050269867006,40.9443649808336,99.020874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>768</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">121.972328000000005</SimpleData>
+		<SimpleData name="time">2015/04/24 08:29:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4044939867016,40.9440139808347,121.972328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>769</name>
+	<ExtendedData><SchemaData schemaUrl="#Komninon_Bins">
+		<SimpleData name="ele">116.220810000000000</SimpleData>
+		<SimpleData name="time">2015/04/24 08:30:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4049119867018,40.9437169808349,116.22081</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

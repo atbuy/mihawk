@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Panagia__Kentro__Bins" id="Panagia__Kentro__Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Panagia__Kentro__Bins</name>
+  <Placemark>
+	<name>770</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">35.817326000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:15:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4177819867011,40.9377419808378,35.817326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>771</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">28.450499000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:16:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4182589867009,40.9376219808376,28.450499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>772</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">-6.056705000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:20:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119909867047,40.9383639808405,-6.056705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>773</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.435478000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:22:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119639867044,40.9385959808401,44.435478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>774</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.404335000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:22:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119629867044,40.9385959808401,44.404335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>775</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.535834999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 04:22:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119599867044,40.9385949808401,44.535835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>776</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.888241000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:27:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119989867036,40.9390469808392,46.888241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>777</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">45.763477000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:27:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119749867037,40.9390319808392,45.763477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>778</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">45.699013000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:29:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4118629867037,40.9390829808392,45.699013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>779</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.640079000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:30:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4116539867042,40.9388429808398,44.640079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>780</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">43.716236000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:32:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113449867045,40.9388289808401,43.716236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>781</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">28.575880000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:33:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4095209867056,40.9390429808409,28.57588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>782</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">27.823235000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:36:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099919867047,40.93933698084,27.823235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>783</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">31.880070000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:38:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099599867045,40.9394969808397,31.88007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>784</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">31.940113000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:38:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099539867045,40.9394979808397,31.940113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>785</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">56.539459000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:39:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097139867044,40.9396909808395,56.539459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>786</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">53.412857000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:41:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099909867043,40.9396069808395,53.412857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>787</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.426997999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 04:42:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4107989867043,40.9391939808397,46.426998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>788</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.392223000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 04:42:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4107999867043,40.9391949808397,46.392223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>789</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.384258000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:42:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108089867043,40.9391969808397,46.384258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>790</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">97.433700999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 04:45:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.410865986704,40.9393529808394,97.433701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>791</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">54.123859000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:47:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4106309867035,40.9398269808386,54.123859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>792</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">37.284782000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 04:48:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4103949867035,40.9399099808386,37.284782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>793</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">39.278446000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:49:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4101179867035,40.9400469808385,39.278446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>794</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">34.896720999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 04:50:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097539867031,40.940457980838,34.896721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>795</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">32.828377000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:52:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.408995986704,40.9402689808389,32.828377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>796</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">33.440384000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:52:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.408996986704,40.9402679808389,33.440384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>797</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">34.241829000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 04:52:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.408996986704,40.9402639808389,34.241829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>798</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">36.273631999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 04:58:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113359867038,40.9392819808392,36.273632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>799</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">35.811672000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 04:58:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113359867038,40.9392879808392,35.811672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>800</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">35.566997999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 04:58:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113359867038,40.9392899808392,35.566998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>801</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">38.765881000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 05:00:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.412648986703,40.9391189808386,38.765881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>802</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">36.149394999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 05:01:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4128619867029,40.9390519808386,36.149395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>803</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">29.229927000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 05:06:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4153639867051,40.9364679808419,29.229927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>804</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">32.357723000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 05:08:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4160429867047,40.9363809808416,32.357723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>805</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">23.629902000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 05:09:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4160319867047,40.9363759808416,23.629902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>806</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">33.087676999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 05:12:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4172339867049,40.9356809808422,33.087677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>807</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">54.235764000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 05:18:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4170329867003,40.9386549808365,54.235764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>808</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">52.121803000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 05:20:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4171309867004,40.9385269808367,52.121803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>809</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">63.000576000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 05:22:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4178759866997,40.9385819808361,63.000576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>810</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.317653999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 05:26:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4201219866983,40.9383819808349,48.317654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>811</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.142924999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 05:26:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4201209866983,40.9383829808349,48.142925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>812</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.993740000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 05:27:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4203579866984,40.9381649808352,44.99374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>813</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">47.553226000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 05:29:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4201899866988,40.9380199808356,47.553226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>814</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">61.173622000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 05:31:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4198209866988,40.9381929808355,61.173622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>815</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">50.608398000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 05:33:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4208779866983,40.9380149808351,50.608398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>816</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.154654999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 05:34:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4210029866982,40.9379669808351,48.154655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>817</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">52.182217000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 05:41:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4216339866935,40.9405929808296,52.182217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>818</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">52.042301000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 05:41:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4218939866936,40.9404409808297,52.042301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>819</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.068527000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 05:43:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4212109866944,40.9402409808305,44.068527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>820</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">51.834034000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 06:41:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4251629866942,40.9384679808313,51.834034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>821</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.142834000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 06:42:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4246509866944,40.9385909808314,48.142834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>822</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.592171000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 06:44:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4240009866952,40.9383649808323,44.592171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>823</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">55.777363000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 06:55:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4216949866895,40.9431259808246,55.777363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>824</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">53.278087999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 06:59:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4221699866878,40.9439499808227,53.278088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>825</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.447074999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 07:00:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4220289866884,40.9436459808233,48.447075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>826</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">53.752785000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 07:02:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4212129866905,40.9427199808257,53.752785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>827</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">50.715434999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 07:03:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4206719866915,40.9423249808268,50.715435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>828</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">52.096882000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 07:03:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4203789866922,40.9420589808276,52.096882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>829</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">55.563560000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 07:05:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4196909866937,40.9414729808292,55.56356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>830</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">58.836593999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 07:06:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4194459866944,40.94113498083,58.836594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>831</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">58.354469000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 07:07:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4190129866955,40.9406699808312,58.354469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>832</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">78.165543000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 07:10:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4169119866961,40.9413089808314,78.165543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>833</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">78.351378999999994</SimpleData>
+		<SimpleData name="time">2015/04/28 07:10:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4169089866961,40.9413109808314,78.351379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>834</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">73.011215000000007</SimpleData>
+		<SimpleData name="time">2015/04/28 07:13:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4173279866963,40.9410159808317,73.011215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>835</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">119.813170999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 07:19:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4137069866962,40.9428219808307,119.813171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>836</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">119.653137000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 07:19:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4136969866963,40.9428229808307,119.653137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>837</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">95.719406000000006</SimpleData>
+		<SimpleData name="time">2015/04/28 07:23:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4107279866987,40.9427669808328,95.719406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>838</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">106.646820000000005</SimpleData>
+		<SimpleData name="time">2015/04/28 07:24:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4104019866987,40.9429209808327,106.64682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>839</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">99.432509999999994</SimpleData>
+		<SimpleData name="time">2015/04/28 07:25:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4102259866991,40.9427669808331,99.43251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>840</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.168937999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 07:39:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4151469867134,40.931346980852,48.168938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>841</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">48.191367999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 07:39:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4151549867134,40.931344980852,48.191368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>842</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">44.724227999999997</SimpleData>
+		<SimpleData name="time">2015/04/28 07:45:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4143369867112,40.9331329808491,44.724228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>843</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">47.950611000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 07:47:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4146559867116,40.9327599808496,47.950611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>844</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">57.192180999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 07:50:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4149949867116,40.9325399808498,57.192181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>845</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">59.295161999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 07:52:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4152999867107,40.9329629808488,59.295162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>846</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">58.851340999999998</SimpleData>
+		<SimpleData name="time">2015/04/28 07:54:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4156189867098,40.9334059808477,58.851341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>847</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">71.976569999999995</SimpleData>
+		<SimpleData name="time">2015/04/28 08:02:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4165029867079,40.9341609808456,71.97657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>848</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">62.858459000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 08:04:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.416519986708,40.9340509808458,62.858459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>849</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">55.493899999999996</SimpleData>
+		<SimpleData name="time">2015/04/28 08:06:13.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4172729867072,40.934220980845,55.4939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>850</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">55.643070000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 08:06:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4172719867072,40.934220980845,55.64307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>851</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">52.243729000000002</SimpleData>
+		<SimpleData name="time">2015/04/28 08:08:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4174529867068,40.9343569808446,52.243729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>852</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">54.290218000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 08:10:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4174679867061,40.9347699808438,54.290218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>853</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.251277999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 08:11:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4169289867056,40.935360980843,46.251278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>854</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.728828000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 08:11:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4166819867055,40.9355289808428,46.728828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>855</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.724029999999999</SimpleData>
+		<SimpleData name="time">2015/04/28 08:11:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4166809867055,40.9355309808428,46.72403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>856</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">35.562508000000001</SimpleData>
+		<SimpleData name="time">2015/04/28 08:13:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4160499867052,40.9360789808422,35.562508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>857</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">43.409004000000003</SimpleData>
+		<SimpleData name="time">2015/04/28 08:15:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4166149867051,40.9358439808423,43.409004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>858</name>
+	<ExtendedData><SchemaData schemaUrl="#Panagia__Kentro__Bins">
+		<SimpleData name="ele">46.708523000000000</SimpleData>
+		<SimpleData name="time">2015/04/28 08:18:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4175609867054,40.935147980843,46.708523</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

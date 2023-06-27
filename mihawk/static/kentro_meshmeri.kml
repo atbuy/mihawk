@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kentro__Mesimeri__Bins" id="Kentro__Mesimeri__Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Kentro__Mesimeri__Bins</name>
+  <Placemark>
+	<name>1378</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">23.099101999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 11:33:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4229029866886,40.9430609808239,23.099102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1379</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.959880999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:34:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4224139866898,40.9425749808252,21.959881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1380</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">32.779114000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:35:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4219689866912,40.9419309808267,32.779114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1381</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">23.410831000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:36:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4228529866921,40.9408869808282,23.410831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1382</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.036944999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:37:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4237629866916,40.9407649808278,22.036945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1383</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">19.178761999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:38:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4244829866911,40.9406949808274,19.178762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1384</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">19.852688000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 11:39:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4256749866909,40.9402569808274,19.852688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1385</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">23.995930000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 11:39:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4264879866915,40.9394709808284,23.99593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1386</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">27.940377999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:40:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4251639866947,40.938106980832,27.940378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1387</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">29.090354999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:41:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4246089866964,40.9373549808338,29.090355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1388</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">32.092091000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 11:42:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4242569866977,40.9366939808354,32.092091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1389</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">31.461839999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:42:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4227799866996,40.9362289808373,31.46184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1390</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.683706000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 11:43:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4214919867003,40.9364509808377,28.683706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1391</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">26.292109000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:44:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4210079867005,40.9365179808379,26.292109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1392</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.374340000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:45:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4197119867007,40.9370869808377,18.37434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1393</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.658574000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:46:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4181339867016,40.9372629808385,12.658574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1394</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">14.192017000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:47:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4171269867024,40.9372629808391,14.192017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1395</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.650169000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:48:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4161389867036,40.9370319808403,16.650169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1396</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">34.822411000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:49:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4154119867031,40.9376519808396,34.822411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1397</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">54.755802000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 11:50:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4155629867025,40.9379699808388,54.755802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1398</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">66.137550000000005</SimpleData>
+		<SimpleData name="time">2015/05/05 11:51:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4156279867019,40.9383339808381,66.13755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1399</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">60.606811999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 11:52:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4158869867011,40.9387269808371,60.606812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1400</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">55.106650999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:53:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4163359866999,40.9392359808358,55.106651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1401</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">55.785473000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 11:54:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4164609866995,40.9394429808354,55.785473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1402</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">55.151173000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:55:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4167279866988,40.9397209808346,55.151173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1403</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">53.104435000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:55:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4170129866981,40.9400279808338,53.104435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1404</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">50.985866999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 11:56:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4177329866969,40.9404529808325,50.985867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1405</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">51.740074000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 11:56:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4177499866968,40.9404499808325,51.740074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1406</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">59.705128000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:58:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4173439866971,40.9405029808327,59.705128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1407</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">49.757305000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 11:59:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4168979866976,40.9404159808332,49.757305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1408</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">49.902805000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:00:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4165459866983,40.940132980834,49.902805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1409</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">53.662604999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:01:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.416261986699,40.9398629808347,53.662605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1410</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">47.223083000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 12:02:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4160569866994,40.9396989808351,47.223083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1411</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">58.072350000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:02:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4157449867002,40.9393319808361,58.07235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1412</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">51.504100999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:03:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4153949867011,40.9389309808371,51.504101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1413</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">41.739246000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:04:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4153169867019,40.9384569808381,41.739246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1414</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">33.232914000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:05:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4151359867024,40.9382699808385,33.232914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1415</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.165610999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 12:06:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4147709867031,40.9379769808394,28.165611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1416</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">27.144355999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 12:06:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4145919867038,40.9376379808401,27.144356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1417</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">23.654055000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:07:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.414620986704,40.9375179808404,23.654055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1418</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.039214999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:08:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4147559867044,40.9372139808409,21.039215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1419</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.634167000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:09:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4145649867056,40.9365259808423,20.634167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1420</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.324835999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:12:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4125929867086,40.9356229808455,15.324836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1421</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">14.889143000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:13:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4125699867087,40.9356099808455,14.889143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1422</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">13.205125000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:16:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4128979867088,40.9353679808457,13.205125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1423</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">11.110291000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:17:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4116609867088,40.9359769808454,11.110291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1424</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">7.998271000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:19:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.410662986709,40.9363109808454,7.998271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1425</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.781319999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:19:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4104119867091,40.9364189808454,9.78132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1426</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.731014999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:19:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4103799867091,40.9364239808454,9.731015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1427</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.890404000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:22:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097919867094,40.9365129808456,20.890404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1428</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.020073000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:24:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092209867106,40.936028980847,22.020073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1429</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.057034000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 12:24:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092249867106,40.936028980847,22.057034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1430</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.581565999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:26:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4090899867119,40.9352669808486,20.581566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1431</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.396767000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:26:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.409065986712,40.9352619808486,20.396767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1432</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.135753999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:28:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081179867125,40.935369980849,17.135754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1433</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.288485999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:28:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081319867125,40.935368980849,17.288486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1434</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.375565000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 12:28:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081399867125,40.935368980849,17.375565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1435</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.558572999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:30:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406374986714,40.9353169808503,18.558573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1436</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.458683000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:30:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406372986714,40.9353509808502,18.458683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1437</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">4.893208000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:31:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4072709867124,40.9359139808485,4.893208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1438</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">4.650129000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:31:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4073289867123,40.9359219808485,4.650129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1439</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">8.793388000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:34:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4077899867118,40.9359729808481,8.793388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1440</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">36.304622999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:36:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4068499867119,40.9364179808478,36.304623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1441</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">34.034916000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 12:37:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054729867131,40.9363579808489,34.034916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1442</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">33.619812000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 12:37:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054559867131,40.9363569808489,33.619812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1443</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">29.615925000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:38:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4048889867137,40.9362709808495,29.615925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1444</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">41.594363999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:40:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4038059867146,40.9361869808504,41.594364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1445</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">39.432395999999997</SimpleData>
+		<SimpleData name="time">2015/05/05 12:40:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4026199867157,40.9360969808514,39.432396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1446</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">24.218042000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:41:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4021049867165,40.9358929808521,24.218042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1447</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">26.736916000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:42:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4014139867178,40.9353699808536,26.736916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1448</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">25.737165000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:43:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4013569867168,40.9360459808524,25.737165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1449</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">7.847835000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:44:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018139867158,40.9364539808512,7.847835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1450</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">8.065514000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:44:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018219867158,40.9364619808512,8.065514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1451</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.978977000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:45:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4026419867148,40.9366659808503,12.978977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1452</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.813933000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:46:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043269867132,40.9368269808488,15.813933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1453</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.692396000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:46:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043579867132,40.9368309808487,15.692396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1454</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">2.458472000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:50:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050459867124,40.936977980848,2.458472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1455</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">2.948376000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:50:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050769867124,40.936979980848,2.948376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1456</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">31.873346000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 12:53:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4055909867121,40.9368769808478,31.873346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1457</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">35.146259000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:55:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4060229867117,40.9369089808475,35.146259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1458</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">31.230560000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:55:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4060039867117,40.9369309808474,31.23056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1459</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">32.469040000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:57:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4064539867116,40.9367879808474,32.46904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1460</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.735928000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 12:58:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069529867109,40.9369619808467,16.735928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1461</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.664809999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 12:59:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4083549867106,40.9364529808467,15.66481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1462</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.722652000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 12:59:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4083719867106,40.9364569808467,15.722652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1463</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">7.640651000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:01:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.40871398671,40.9366719808461,7.640651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1464</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">25.247337000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 13:04:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091809867095,40.9367469808456,25.247337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1465</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.644548000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:06:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096039867089,40.9369379808449,28.644548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1466</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">35.230922999999997</SimpleData>
+		<SimpleData name="time">2015/05/05 13:07:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4115749867084,40.9362429808449,35.230923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1467</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.058095999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 13:09:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4123669867073,40.9365519808438,22.058096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1468</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.991551999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 13:09:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4123719867073,40.9365639808438,21.991552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1469</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.007666000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:12:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.413062986704,40.93826198084,17.007666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1470</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.825603000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 13:13:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4133059867029,40.9388769808386,20.825603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1471</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.338743000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 13:14:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135959867026,40.9388919808384,28.338743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1472</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">25.310440000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:15:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.414039986703,40.938426980839,25.31044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1473</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.378689000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 13:16:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4136399867034,40.9383479808394,20.378689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1474</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.602385000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 13:16:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4132649867045,40.9378549808407,18.602385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1475</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.301183999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 13:16:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4132369867045,40.9378679808406,18.301184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1476</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.028973000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 13:55:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138099867047,40.937468980841,28.028973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1477</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.260300000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 13:58:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119229867055,40.9378759808415,15.2603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1478</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.489632000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:58:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4118759867055,40.9378979808415,15.489632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1479</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">31.202282000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 13:59:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4114079867053,40.9382849808411,31.202282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1480</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">25.316337999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 14:00:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4110309867052,40.9385239808409,25.316338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1481</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">29.922234000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:01:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108519867052,40.9386489808408,29.922234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1482</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.308724999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:02:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4105079867052,40.9387799808407,16.308725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1483</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">10.849985000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:03:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096879867057,40.9388739808411,10.849985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1484</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">24.180958000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:03:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4095029867056,40.9390449808409,24.180958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1485</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">23.957581000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:03:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4094809867056,40.9390559808409,23.957581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1486</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.758270000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:05:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4089259867056,40.9392939808408,28.75827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1487</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.737079999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:06:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081929867071,40.9387239808424,20.73708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1488</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.886966999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:07:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4086259867077,40.9381579808432,20.886967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1489</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.740906000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:08:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092679867079,40.9377039808437,15.740906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1490</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.643856000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:09:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4093439867079,40.9376919808436,22.643856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1491</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">22.340729000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:09:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4093549867078,40.9377019808436,22.340729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1492</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.868680999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:10:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4093849867075,40.9379369808431,20.868681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1493</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.226714999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:10:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4093899867074,40.9379619808431,20.226715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1494</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.649794000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:11:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4086099867058,40.9393689808409,16.649794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1495</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">25.912775000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:12:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4081499867057,40.9396649808406,25.912775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1496</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">27.678059000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:13:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4073669867062,40.9397049808411,27.678059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1497</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">29.020903000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:14:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4060649867086,40.9388519808437,29.020903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1498</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">41.756270999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 14:16:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4046099867089,40.9394009808436,41.756271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1499</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">52.102119000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 14:17:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4039179867086,40.939929980843,52.102119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1500</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">41.003776999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:19:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050869867091,40.939023980844,41.003777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1501</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">40.387169000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:19:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4051309867091,40.938993980844,40.387169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1502</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">44.125919000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 14:20:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054689867092,40.9387609808442,44.125919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1503</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">32.167534000000003</SimpleData>
+		<SimpleData name="time">2015/05/05 14:21:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4062819867096,40.9381479808449,32.167534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1504</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">35.940353000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 14:22:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067939867093,40.9380829808446,35.940353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1505</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">35.829295999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:23:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4075929867086,40.9380909808441,35.829296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1506</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">32.647373000000002</SimpleData>
+		<SimpleData name="time">2015/05/05 14:24:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080269867077,40.9384519808431,32.647373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1507</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">31.483222999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:24:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080479867076,40.938478980843,31.483223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1508</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.567919000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:27:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.412372986708,40.9360859808447,9.567919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1509</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">19.321034999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 14:29:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4150519867051,40.9366229808418,19.321035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1510</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.860668000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:30:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.416267986704,40.9366879808409,21.860668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1511</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.830512000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:31:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4169239867032,40.93689998084,15.830512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1512</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">37.172812999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 14:33:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4265989866928,40.93859898083,37.172813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1513</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.447818999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:35:35.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4229019866887,40.9429739808241,16.447819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1514</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">13.475752999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:36:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4234299866877,40.943343980823,13.475753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1515</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.609230999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:37:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.424509986686,40.9439299808211,12.609231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1516</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">14.983356000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:39:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4272709866833,40.9442079808187,14.983356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1517</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.153477000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 14:39:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4288369866811,40.9448049808164,12.153477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1518</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">11.634200999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:40:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4298859866797,40.945166980815,11.634201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1519</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">10.208425999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 14:41:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4328629866766,40.9456789808119,10.208426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1520</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.664927000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 14:43:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.437983986671,40.9466269808066,9.664927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1521</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.686440000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 15:13:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.450002986657,40.9494419807928,28.68644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1522</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">28.781096999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:13:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.450006986657,40.9494439807929,28.781097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1523</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">43.590575999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:16:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4541209866507,40.9513369807864,43.590576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1524</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">40.633780999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:18:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4539229866507,40.9514739807862,40.633781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1525</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">41.703907000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 15:19:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4536539866507,40.9515579807862,41.703907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1526</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">39.866219000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 15:21:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4532759866508,40.9516929807862,39.866219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1527</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">36.377018000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:22:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4530759866515,40.951363980787,36.377018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1528</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">34.201191000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 15:24:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4534839866514,40.951231980787,34.201191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1529</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">34.170994000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:24:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4535249866514,40.951217980787,34.170994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1530</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">38.212826000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:25:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4536899866514,40.951143980787,38.212826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1531</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">37.723712999999996</SimpleData>
+		<SimpleData name="time">2015/05/05 15:26:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4539519866513,40.951034980787,37.723713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1532</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">49.776381999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 15:37:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4196299866961,40.9399729808321,49.776382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1533</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">56.902676000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:38:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4190849866964,40.9400959808323,56.902676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1534</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">65.512985000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:39:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4189259866964,40.9401559808323,65.512985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1535</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">35.747706999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 15:42:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4143919867052,40.9368919808417,35.747707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1536</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.503717999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:44:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108329867081,40.9368149808444,15.503718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1537</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.254605000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:45:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108229867081,40.9368179808444,15.254605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1538</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.060551000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:45:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099089867086,40.9369729808447,17.060551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1539</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.976766999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:47:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096659867088,40.9369289808449,21.976767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1540</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">10.525022999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:48:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4087029867093,40.9371049808452,10.525023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1541</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">10.202088000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:50:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4070059867109,40.9369609808467,10.202088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1542</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.309211999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:51:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4062979867114,40.9369819808471,16.309212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1543</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.116664999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:52:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050789867126,40.9368659808482,9.116665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1544</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.083168000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 15:52:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050779867126,40.9368659808482,9.083168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1545</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">9.021609000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:55:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043879867129,40.9369999808484,9.021609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1546</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.757355000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:56:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4034679867141,40.9367259808496,12.757355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1547</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">12.750520000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:56:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4034249867141,40.9367169808496,12.75052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1548</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.963654999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 15:58:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4013579867166,40.936193980852,20.963655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1549</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.467838000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 15:59:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012689867171,40.9359149808527,20.467838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1550</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.854171999999998</SimpleData>
+		<SimpleData name="time">2015/05/05 16:01:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3997949867191,40.9353819808547,17.854172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1551</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.570458000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:02:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3993359867194,40.935424980855,15.570458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1552</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.373187999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 16:03:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3981889867205,40.935277980856,16.373188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1553</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">14.469433000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:04:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3973319867214,40.9351339808569,14.469433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1554</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">13.305476000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 16:05:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3959949867228,40.9349549808582,13.305476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1555</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">17.066582000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:06:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3954279867234,40.9348369808588,17.066582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1556</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">19.760130000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:07:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3949459867241,40.9346439808595,19.76013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1557</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">15.860249000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:09:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3944859867246,40.93456898086,15.860249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1558</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.117203000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:09:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3944839867246,40.93456798086,16.117203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1559</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.834254999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 16:10:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3940169867253,40.9343229808607,16.834255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1560</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">16.481370999999999</SimpleData>
+		<SimpleData name="time">2015/05/05 16:16:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3956999867234,40.9347369808588,16.481371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1561</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">18.206495000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:17:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.395983986723,40.9348149808584,18.206495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1562</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.877987000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 16:18:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4016029867183,40.9350029808542,21.877987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1563</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">21.849394000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:18:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4016229867182,40.9350199808542,21.849394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1564</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">20.678152000000001</SimpleData>
+		<SimpleData name="time">2015/05/05 16:20:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4052829867134,40.9362359808493,20.678152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1565</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Mesimeri__Bins">
+		<SimpleData name="ele">24.211973000000000</SimpleData>
+		<SimpleData name="time">2015/05/05 16:21:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069969867118,40.9363779808478,24.211973</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

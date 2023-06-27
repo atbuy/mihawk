@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kentro__Nyxta__Bins" id="Kentro__Nyxta__Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Kentro__Nyxta__Bins</name>
+  <Placemark>
+	<name>1640</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">60.661704999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:00:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4051749867093,40.9388469808443,60.661705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1641</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">69.259590000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 21:01:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4058779867094,40.9384539808445,69.25959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1642</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">57.741298999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:01:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067679867091,40.9381969808445,57.741299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1643</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.681187000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:02:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4073619867088,40.9381079808442,35.681187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1644</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.710220000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:03:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080159867077,40.9384269808431,18.71022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1645</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.697120999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:03:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080219867077,40.9384299808431,18.697121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1646</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">10.170628000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:04:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4082399867072,40.9386479808426,10.170628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1647</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-9.355133000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:05:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4084369867068,40.938836980842,-9.355133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1648</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-8.222212000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:06:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4086639867078,40.9381069808433,-8.222212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1649</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">6.171898000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:07:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069689867102,40.9373849808459,6.171898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1650</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">6.197189000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:07:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069029867103,40.9373819808459,6.197189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1651</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.766292999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:08:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406032986711,40.9373439808466,14.766293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1652</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.476396999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:09:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4055339867114,40.9373759808469,21.476397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1653</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.869146000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:10:13.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.404880986712,40.9373349808474,21.869146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1654</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">16.028399000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:11:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043059867126,40.937238980848,16.028399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1655</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">20.945298999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:11:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4038119867128,40.9373599808481,20.945299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1656</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.431781999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:12:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4032529867132,40.9373619808485,18.431782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1657</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.554535000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:13:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4028049867134,40.9374729808486,18.554535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1658</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.139127000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:14:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4023059867138,40.937445980849,13.139127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1659</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.317660999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:14:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4022909867138,40.937440980849,13.317661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1660</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">20.360460000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:15:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4017419867143,40.9374139808494,20.36046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1661</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.981703000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:16:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4013669867148,40.9373169808499,22.981703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1662</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.706867000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 21:18:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012209867151,40.9371459808503,35.706867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1663</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.285269000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:18:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4010169867158,40.936864980851,31.285269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1664</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.218068000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:19:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4008009867163,40.9366059808516,13.218068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1665</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.680862000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:20:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4002809867169,40.9365039808522,22.680862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1666</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.914196000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:21:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3997509867175,40.9363819808528,24.914196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1667</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">42.435927999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 21:22:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3996229867174,40.9364959808526,42.435928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1668</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">39.762748999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:23:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3992679867172,40.9368469808522,39.762749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1669</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">34.728515999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:23:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3989669867171,40.937064980852,34.728516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1670</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">33.822474999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 21:24:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.398837986717,40.9371769808519,33.822475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1671</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.041083999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:25:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3985059867172,40.9371879808521,35.041084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1672</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.270068999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:25:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3977569867177,40.9372859808524,44.270069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1673</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">49.433822999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 21:26:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3972749867173,40.9377409808518,49.433823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1674</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">48.898190000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:27:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3972799867167,40.9381059808511,48.89819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1675</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.118084000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 21:28:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3969639867168,40.9382299808511,44.118084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1676</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.101337000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:28:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3968649867168,40.9382859808511,44.101337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1677</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.718048000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 21:29:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964079867168,40.938495980851,44.718048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1678</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.706294999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 21:29:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3963709867168,40.938503980851,44.706295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1679</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">53.939326999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:30:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3955149867175,40.9384819808516,53.939327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1680</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">66.046982000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:31:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3950659867173,40.9388569808512,66.046982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1681</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">70.200928000000005</SimpleData>
+		<SimpleData name="time">2015/05/06 21:32:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3947939867169,40.9392449808506,70.200928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1682</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">74.327895999999996</SimpleData>
+		<SimpleData name="time">2015/05/06 21:33:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3940869867167,40.9396849808502,74.327896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1683</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">70.645325000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:34:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3936589867166,40.93995298085,70.645325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1684</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">74.844657999999995</SimpleData>
+		<SimpleData name="time">2015/05/06 21:35:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3933019867167,40.94011398085,74.844658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1685</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">69.304801999999995</SimpleData>
+		<SimpleData name="time">2015/05/06 21:35:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3939309867159,40.9402869808492,69.304802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1686</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">81.325789999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:36:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3943119867154,40.9404179808487,81.32579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1687</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.287386000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:40:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3993149867189,40.9357639808543,12.287386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1688</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.716652000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:41:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3991189867186,40.9360439808539,15.716652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1689</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.489103000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:42:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3990759867186,40.9360519808539,14.489103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1690</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.304881999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:43:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3988519867183,40.9363169808535,21.304882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1691</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.082135999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:43:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3988159867183,40.9363419808535,21.082136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1692</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.170287999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:44:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3980829867192,40.9361679808543,25.170288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1693</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">29.451392999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:44:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3980129867193,40.9361609808544,29.451393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1694</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.344633000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 21:46:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3969519867204,40.9359499808555,25.344633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1695</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.897430000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:46:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3969239867203,40.9360269808554,31.89743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1696</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">28.367531000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:47:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3962759867211,40.9358439808562,28.367531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1697</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">26.686436000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:48:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3959309867215,40.9358109808565,26.686436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1698</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.723365999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:48:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3957799867216,40.9358059808566,24.723366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1699</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.740829000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 21:49:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3948489867227,40.9355969808577,24.740829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1700</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.453503000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:49:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3947999867227,40.9355819808577,24.453503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1701</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">32.284095999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 21:50:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3944509867232,40.9354279808583,32.284096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1702</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.681602000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 21:51:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3944079867234,40.9353639808584,31.681602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1703</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.584240000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:52:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3938009867243,40.9351109808593,22.58424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1704</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.860455999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:53:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.393985986724,40.9351729808591,22.860456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1705</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.471416000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:54:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3962699867216,40.9355389808568,13.471416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1706</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">17.236008000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 21:54:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964009867215,40.9355439808567,17.236008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1707</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.257232999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:55:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964039867216,40.9354769808569,24.257233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1708</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">30.027771000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 21:55:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964339867218,40.9353419808571,30.027771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1709</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.636822000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 21:56:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3965359867219,40.9352589808572,8.636822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1710</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.878810999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 21:57:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964429867224,40.9349839808578,21.878811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1711</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.542839000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:00:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.404324986716,40.9350799808522,13.542839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1712</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.954342000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:01:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4044179867152,40.9355459808512,11.954342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1713</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.858105000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:01:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4044239867152,40.9355469808512,11.858105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1714</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">16.372205999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 22:03:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4053729867133,40.9362409808492,16.372206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1715</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">10.548875000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:04:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4071379867115,40.9364869808475,10.548875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1716</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">2.408539000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:05:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4083209867106,40.9364969808467,2.408539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1717</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">2.071295000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:05:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4083479867106,40.9365059808466,2.071295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1718</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.115333000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:06:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4088719867101,40.9365499808462,12.115333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1719</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">7.945361000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:06:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091709867094,40.9367919808455,7.945361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1720</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.462868000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:08:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4087699867091,40.937188980845,14.462868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1721</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.539754000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:08:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4069859867109,40.9369969808466,14.539754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1722</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.375766000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:09:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.406953986711,40.9368989808468,12.375766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1723</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.611587999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:10:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4067699867119,40.9364559808478,11.611588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1724</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.885220000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:11:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4055329867131,40.9363239808489,13.88522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1725</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.992979000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:11:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4054929867131,40.936318980849,13.992979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1726</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">23.056592999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:12:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4049539867137,40.9362409808495,23.056593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1727</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.919620999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:13:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4039039867146,40.9361889808503,24.919621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1728</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">20.183575000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:14:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4025469867158,40.9361019808514,20.183575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1729</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.192181000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:15:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4020899867165,40.9358689808522,22.192181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1730</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">17.454492999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:16:13.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4013469867178,40.9354049808536,17.454493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1731</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.323886000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:17:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012249867173,40.9358259808528,14.323886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1732</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-2.446448000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:17:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4011899867169,40.9360649808524,-2.446448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1733</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-6.616878000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:18:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4012269867166,40.936254980852,-6.616878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1734</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-13.892963999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:19:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4015829867158,40.9365629808512,-13.892964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1735</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-13.958466000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:19:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4015899867158,40.9365669808512,-13.958466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1736</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-4.772198000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:20:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.402479986715,40.9366449808504,-4.772198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1737</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.386151000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:21:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.403412986714,40.9367659808495,5.386151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1738</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.420727000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:21:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.403464986714,40.9367759808495,5.420727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1739</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">9.111281999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:21:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043239867132,40.9368149808488,9.111282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1740</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.761414000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:21:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4043549867132,40.9368249808488,8.761414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1741</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">30.839286999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:23:13.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4046179867128,40.9369249808484,30.839287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1742</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.552657999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:24:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050999867124,40.936933980848,8.552658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1743</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.089382000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:24:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4051019867124,40.936932980848,8.089382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1744</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.040836000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:24:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050809867125,40.9369179808481,5.040836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1745</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.106041000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:24:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4050859867125,40.9369229808481,5.106041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1746</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">17.811641999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:25:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4055639867119,40.9370279808475,17.811642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1747</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.166891000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:27:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4064269867114,40.9369559808471,15.166891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1748</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.430500000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:29:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096629867088,40.9369799808448,11.4305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1749</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.583242000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:29:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096909867087,40.9369989808448,11.583242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1750</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.068552000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:30:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4099389867085,40.9370029808446,18.068552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1751</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">4.904572000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:31:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4114229867085,40.936280980845,4.904572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1752</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.798260000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 22:32:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.412488986708,40.9360309808447,8.79826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1753</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.082352000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:56:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4229339866871,40.944016980822,25.082352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1754</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.778751000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:57:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4229269866871,40.944017980822,25.778751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1755</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.248165000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:57:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4226909866876,40.9437829808226,24.248165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1756</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.080257000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 22:57:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4226939866876,40.9437809808226,24.080257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1757</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">32.584266999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 22:58:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4224799866889,40.9430979808241,32.584267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1758</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">40.168559999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 22:59:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4216139866907,40.9424049808261,40.16856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1759</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">42.986992000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:00:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4211039866917,40.9419989808272,42.986992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1760</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">47.347363000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:01:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4207209866923,40.9418079808278,47.347363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1761</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">46.369484000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:01:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4199899866937,40.9412959808293,46.369484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1762</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">53.221352000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 23:02:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4197159866946,40.9408569808304,53.221352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1763</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">63.604655999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:03:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4193529866957,40.9403569808316,63.604656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1764</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">63.996445000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:04:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4198119866959,40.9400109808319,63.996445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1765</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">66.859543000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:04:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4204279866957,40.9398279808319,66.859543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1766</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">64.460175000000007</SimpleData>
+		<SimpleData name="time">2015/05/06 23:05:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4209789866957,40.939577980832,64.460175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1767</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">67.515602000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:06:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4213859866956,40.939456980832,67.515602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1768</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">75.618506999999994</SimpleData>
+		<SimpleData name="time">2015/05/06 23:07:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4221119866952,40.9393389808317,75.618507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1769</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">75.239204000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:07:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4227589866946,40.9393999808311,75.239204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1770</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">75.003281000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:07:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4228009866945,40.9393979808311,75.003281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1771</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">72.560660999999996</SimpleData>
+		<SimpleData name="time">2015/05/06 23:08:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4233679866936,40.9396849808301,72.560661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1772</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">59.214691000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:09:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.424119986693,40.9397189808296,59.214691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1773</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">59.093024999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 23:09:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.424143986693,40.9396919808296,59.093025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1774</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">50.594631000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:11:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4256039866928,40.9390709808298,50.594631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1775</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">50.230240000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:11:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4255919866929,40.9390439808298,50.23024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1776</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">51.626117999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 23:12:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4244139866937,40.9391359808305,51.626118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1777</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">53.828113999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:13:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4236319866949,40.9387589808318,53.828114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1778</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">52.484034999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:13:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4233869866956,40.9384469808325,52.484035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1779</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">47.106772999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 23:14:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4238309866963,40.9378089808335,47.106773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1780</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">43.874392999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 23:15:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4241809866969,40.9371999808344,43.874393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1781</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">42.906086000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:16:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4239489866979,40.9367409808355,42.906086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1782</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">44.453339000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:17:23.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4237229866984,40.936537980836,44.453339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1783</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">37.095717999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 23:18:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4232319866988,40.9365369808364,37.095718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1784</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">37.853335999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:18:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4224889866989,40.9368369808363,37.853336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1785</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">27.762400000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:19:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4219029866991,40.9370089808363,27.7624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1786</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">27.588056999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:19:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.421882986699,40.9370219808363,27.588057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1787</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">32.664031999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:20:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.421259986699,40.9373609808361,32.664032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1788</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">33.679512000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 23:21:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4206359866992,40.9375349808362,33.679512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1789</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">33.662323000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:22:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4202389866993,40.9376949808362,33.662323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1790</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">30.723659999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:23:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4191669866995,40.9381089808361,30.72366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1791</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">33.067368000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:23:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4183979866999,40.9382219808364,33.067368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1792</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.248050999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 23:24:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4178599867001,40.9383309808366,35.248051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1793</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">37.908271999999997</SimpleData>
+		<SimpleData name="time">2015/05/06 23:25:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4174689867006,40.9382129808371,37.908272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1794</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">34.122807000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:25:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4169119867013,40.9380629808377,34.122807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1795</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">33.723640000000003</SimpleData>
+		<SimpleData name="time">2015/05/06 23:26:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4165069867022,40.9376939808387,33.72364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1796</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.733587000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:27:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4157759867033,40.9373589808399,31.733587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1797</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">14.814495000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:29:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4149079867043,40.9371689808409,14.814495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1798</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">32.412410999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:33:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4140759867146,40.9311599808531,32.412411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1799</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">32.347445999999998</SimpleData>
+		<SimpleData name="time">2015/05/06 23:33:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4141619867139,40.9315559808523,32.347446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1800</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.104948000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:34:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4141649867131,40.9320559808513,31.104948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1801</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">28.763863000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:35:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4140959867128,40.932250980851,28.763863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1802</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">34.830826000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:36:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.414118986712,40.93276198085,34.830826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1803</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.208916000000002</SimpleData>
+		<SimpleData name="time">2015/05/06 23:36:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4141209867119,40.9327999808499,35.208916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1804</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">34.020316999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:38:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138919867111,40.9334009808489,34.020317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1805</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.029160000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:38:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135839867104,40.9339899808479,31.02916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1806</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">30.987558000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:38:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4135569867104,40.9340369808479,30.987558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1807</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">35.432198000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:40:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4134029867099,40.9344309808472,35.432198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1808</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">29.249811000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:41:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.413539986709,40.9349079808462,29.249811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1809</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.722933000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:41:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4136959867081,40.9353799808452,24.722933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1810</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.211749999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:42:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138299867076,40.9356749808445,22.21175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1811</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.704020999999999</SimpleData>
+		<SimpleData name="time">2015/05/06 23:43:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4144779867065,40.9360049808434,15.704021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1812</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.121623000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:46:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4126149867086,40.9356009808455,13.121623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1813</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.595457000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:46:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4125769867087,40.9355829808455,12.595457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1814</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.880488000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:48:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4123659867111,40.9341779808484,8.880488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1815</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.873614000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:49:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4128919867092,40.9351219808462,8.873614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1816</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">10.581348000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:50:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4129279867088,40.9353329808458,10.581348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1817</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.032692000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:51:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4116879867087,40.9360059808453,11.032692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1818</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.616643000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:52:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.410654986709,40.9363509808454,8.616643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1819</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">3.479112000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:53:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.410371986709,40.9364499808454,3.479112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1820</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">3.630211000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:53:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4103599867091,40.9364499808454,3.630211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1821</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.600763000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:54:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097609867095,40.9364659808458,15.600763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1822</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.629398000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:54:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4097469867095,40.9364579808458,15.629398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1823</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.695907000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:56:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091889867107,40.936003980847,8.695907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1824</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.720928000000001</SimpleData>
+		<SimpleData name="time">2015/05/06 23:56:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4091789867107,40.9360019808471,8.720928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1825</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.082181000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:57:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.409057986712,40.9352539808486,8.082181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1826</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">8.280932000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:57:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.409032986712,40.9352569808486,8.280932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1827</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">4.254718000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:58:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4082439867123,40.9354589808488,4.254718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1828</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">3.999521000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:58:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4082469867123,40.9354739808487,3.999521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1829</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">3.725919000000000</SimpleData>
+		<SimpleData name="time">2015/05/06 23:58:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4082489867123,40.9354839808487,3.725919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1830</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.806576000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:00:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4074999867122,40.9359229808484,18.806576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1831</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">22.731030000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:00:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4075039867121,40.9359279808483,22.73103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1832</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">40.510314999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:01:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4078649867117,40.9360429808479,40.510315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1833</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.483895000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:03:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4123489867073,40.9365429808438,5.483895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1834</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">5.191783000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:03:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4123619867073,40.9365629808438,5.191783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1835</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">-0.990915000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:06:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4129749867042,40.9381789808402,-0.990915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1836</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">9.350410000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:07:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4134499867029,40.9387619808387,9.35041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1837</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">16.107527000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:08:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4136839867026,40.9388489808384,16.107527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1838</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">21.464596000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:08:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4140219867031,40.9383399808392,21.464596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1839</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">27.247986000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:10:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4137799867035,40.9382459808395,27.247986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1840</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">23.646957000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:10:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4136399867038,40.9381399808398,23.646957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1841</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.682541000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:10:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4132419867044,40.9379569808405,25.682541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1842</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.895412000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:10:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4132409867044,40.9379579808405,25.895412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1843</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">25.498909000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:14:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4138389867046,40.9375009808409,25.498909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1844</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.225937000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:15:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119529867055,40.9378889808415,12.225937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1845</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.350669999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:15:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4119199867055,40.9379239808414,12.35067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1846</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">11.633730999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:16:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4113479867055,40.9382159808412,11.633731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1847</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">17.482220000000002</SimpleData>
+		<SimpleData name="time">2015/05/07 00:17:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4111289867052,40.9384739808409,17.48222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1848</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">15.781046000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:18:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4108179867053,40.9386079808409,15.781046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1849</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">18.949605999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:19:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4103109867054,40.9387699808409,18.949606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1850</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">27.622828999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:20:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4096599867058,40.9388089808412,27.622829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1851</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">24.104420000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:20:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092129867059,40.9389959808412,24.10442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1852</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">23.505520000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:20:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4092089867059,40.9390019808412,23.50552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1853</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">17.519217000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:22:16.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4087249867059,40.9392309808411,17.519217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1854</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">19.332502000000002</SimpleData>
+		<SimpleData name="time">2015/05/07 00:22:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4085049867057,40.9394669808408,19.332502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1855</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">13.219958999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:23:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4080769867057,40.9396909808406,13.219959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1856</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">12.211092000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:24:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.407391986706,40.9398519808408,12.211092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1857</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">19.985085999999999</SimpleData>
+		<SimpleData name="time">2015/05/07 00:25:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4059419867088,40.9388059808438,19.985086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1858</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">26.506622000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:27:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4058789867115,40.9371379808471,26.506622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1859</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.638161000000000</SimpleData>
+		<SimpleData name="time">2015/05/07 00:27:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4057859867117,40.9370259808474,31.638161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1860</name>
+	<ExtendedData><SchemaData schemaUrl="#Kentro__Nyxta__Bins">
+		<SimpleData name="ele">31.976486000000001</SimpleData>
+		<SimpleData name="time">2015/05/07 00:27:29.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4057729867118,40.9370239808474,31.976486</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

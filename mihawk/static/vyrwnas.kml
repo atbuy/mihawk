@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Vyronas_Bins" id="Vyronas_Bins">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="float"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Vyronas_Bins</name>
+  <Placemark>
+	<name>173</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">144.908508000000012</SimpleData>
+		<SimpleData name="time">2015/04/17 04:18:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.4018369867026,40.9447069808351,144.908508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>174</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">135.421203999999989</SimpleData>
+		<SimpleData name="time">2015/04/17 04:25:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3838319867202,40.9425869808516,135.421204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>175</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">159.975769000000014</SimpleData>
+		<SimpleData name="time">2015/04/17 04:27:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3812399867238,40.9416119808553,159.975769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>176</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">172.435425000000009</SimpleData>
+		<SimpleData name="time">2015/04/17 04:29:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3797089867228,40.9430189808536,172.435425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>177</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">211.556365999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 04:31:18.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3782279867258,40.9418619808569,211.556366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">211.659210000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 04:31:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3782159867258,40.9418409808569,211.65921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>179</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">199.764266999999990</SimpleData>
+		<SimpleData name="time">2015/04/17 04:39:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3762599867284,40.9411839808596,199.764267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>180</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">197.836120999999991</SimpleData>
+		<SimpleData name="time">2015/04/17 04:41:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3764889867291,40.9406659808604,197.836121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>181</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">241.363128999999986</SimpleData>
+		<SimpleData name="time">2015/04/17 04:44:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3721279867336,40.9399779808648,241.363129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>182</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">244.169387999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 04:48:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3735559867379,40.9365599808704,244.169388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>183</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">196.313186999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 04:52:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3756039867323,40.9390879808641,196.313187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">198.103454999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 04:53:30.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3760549867315,40.9393699808632,198.103455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>185</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">181.103591999999992</SimpleData>
+		<SimpleData name="time">2015/04/17 04:58:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3751419867464,40.9304369808813,181.103592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>186</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">157.327591000000012</SimpleData>
+		<SimpleData name="time">2015/04/17 05:01:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3799549867385,40.932996980873,157.327591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>187</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">157.858443999999992</SimpleData>
+		<SimpleData name="time">2015/04/17 05:03:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3802839867377,40.9333389808721,157.858444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">146.463806000000005</SimpleData>
+		<SimpleData name="time">2015/04/17 05:04:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3805799867357,40.9344469808697,146.463806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">134.761490000000009</SimpleData>
+		<SimpleData name="time">2015/04/17 05:08:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3832629867312,40.9359529808649,134.76149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">137.462279999999993</SimpleData>
+		<SimpleData name="time">2015/04/17 05:10:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3828259867312,40.9361839808648,137.46228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>191</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">133.431319999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 05:12:22.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3834609867296,40.936895980863,133.43132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">130.079390999999987</SimpleData>
+		<SimpleData name="time">2015/04/17 05:12:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3837999867299,40.9365129808635,130.079391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>193</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">115.042709000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 05:13:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3846709867308,40.9355249808648,115.042709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>194</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">109.113112999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 05:15:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.38548098673,40.9355959808641,109.113113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>195</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">103.245368999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 05:15:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.38592498673,40.9353749808643,103.245369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>196</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">98.248703000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 05:17:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3866119867303,40.9349029808647,98.248703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>197</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">115.255347999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 05:19:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3848809867294,40.9363219808631,115.255348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>198</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">135.157654000000008</SimpleData>
+		<SimpleData name="time">2015/04/17 05:21:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3836459867281,40.9377399808612,135.157654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>199</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">138.880615000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 05:23:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3822959867276,40.9387349808602,138.880615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>200</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">145.794510000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 05:27:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3834349867234,40.9407539808555,145.79451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">119.990356000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 05:29:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3858449867199,40.9417799808518,119.990356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">81.950180000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 05:31:27.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3910849867164,40.941378980849,81.95018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">85.653000000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 05:33:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3898109867176,40.9412719808501,85.653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">89.524506000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 05:34:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3892819867181,40.9412329808505,89.524506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">92.760734999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 05:36:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3887639867186,40.941168980851,92.760735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>206</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">78.430572999999995</SimpleData>
+		<SimpleData name="time">2015/04/17 05:38:02.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3878199867194,40.9411069808518,78.430573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>207</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">66.183716000000004</SimpleData>
+		<SimpleData name="time">2015/04/17 05:39:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3883949867196,40.9406989808522,66.183716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>208</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">54.586098000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 05:40:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3886099867202,40.940210980853,54.586098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>209</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">58.074570000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 05:41:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.387664986721,40.9401839808537,58.07457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">62.858044000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 05:44:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3900989867192,40.9400969808522,62.858044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">66.516953000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 05:45:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3901639867193,40.9399939808523,66.516953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>212</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">55.400730000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 05:49:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3907459867204,40.9390519808538,55.40073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">66.617019999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 05:50:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3907169867184,40.9403349808513,66.61702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>214</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">57.528663999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 05:51:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3912419867186,40.9399409808517,57.528664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>215</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">66.147034000000005</SimpleData>
+		<SimpleData name="time">2015/04/17 05:53:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3914769867183,40.9399619808515,66.147034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>216</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">61.097931000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 05:55:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.392489986718,40.9396589808514,61.097931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>217</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">65.877960000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 05:56:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3915549867176,40.9403659808507,65.87796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>218</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">65.489531999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 05:57:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3922589867174,40.9401849808505,65.489532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>219</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">67.375656000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 05:58:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927519867173,40.9400109808505,67.375656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>220</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">59.888041999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 05:59:51.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927009867181,40.9394929808516,59.888042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>221</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">51.266716000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:01:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3925129867188,40.9391949808523,51.266716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>222</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">47.894629999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 06:03:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3923629867187,40.9393079808522,47.89463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>223</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">44.855625000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:04:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3931439867186,40.9390029808522,44.855625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>224</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">38.982193000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:05:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3938619867185,40.9386669808524,38.982193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>225</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">40.035919000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 06:05:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3942149867185,40.9385169808524,40.035919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>226</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">42.300120999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 06:07:21.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.394333986718,40.9387939808518,42.300121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>227</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">45.266185999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 06:08:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.394357986718,40.9387789808518,45.266186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>228</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">54.343895000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:09:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3939239867178,40.9390719808515,54.343895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>229</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">56.032246000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:11:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3932099867176,40.939596980851,56.032246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>230</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">53.051417999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 06:12:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3932119867181,40.9392899808516,53.051418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>231</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">48.047665000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:13:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3921769867195,40.9388679808531,48.047665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>232</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">38.596352000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:14:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3919949867203,40.938507980854,38.596352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>233</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">35.279648000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:16:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3918189867207,40.9383119808545,35.279648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>234</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">35.423962000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:16:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3918219867207,40.9383129808545,35.423962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>235</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">49.666389000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:19:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3918989867193,40.9391899808527,49.666389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>236</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">43.788685000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:20:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3914919867198,40.9390579808532,43.788685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>237</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">73.073836999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 06:22:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3929879867169,40.9400939808502,73.073837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>238</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">74.114517000000006</SimpleData>
+		<SimpleData name="time">2015/04/17 06:22:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.392984986717,40.9400919808502,74.114517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>239</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">74.851333999999994</SimpleData>
+		<SimpleData name="time">2015/04/17 06:24:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3928319867165,40.9404469808496,74.851334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>240</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">82.410156000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:26:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3922989867167,40.9405959808497,82.410156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>241</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">77.175933999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 06:27:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3916889867169,40.9407889808497,77.175934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>242</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">75.647475999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 06:28:20.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3911289867175,40.9406589808504,75.647476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>243</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">75.468001999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 06:29:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3909399867171,40.9409969808499,75.468002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>244</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">73.909744000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:30:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3899379867184,40.9407059808511,73.909744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>245</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">71.992110999999994</SimpleData>
+		<SimpleData name="time">2015/04/17 06:32:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3891119867188,40.9408279808514,71.992111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>246</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">65.950996000000004</SimpleData>
+		<SimpleData name="time">2015/04/17 06:34:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3899869867191,40.940215980852,65.950996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>247</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">56.404193999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 06:35:49.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3896219867202,40.9397189808532,56.404194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>248</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">52.114845000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:36:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3896479867207,40.9394129808538,52.114845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>249</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">45.278877000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:38:19.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3900239867223,40.9382309808559,45.278877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">47.695919000000004</SimpleData>
+		<SimpleData name="time">2015/04/17 06:39:26.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3905909867221,40.9380549808558,47.695919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>251</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">37.806671000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:40:24.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.391359986722,40.9377559808559,37.806671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>252</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">36.716090999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 06:41:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.390901986723,40.937349980857,36.716091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>253</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">34.804214000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 06:42:14.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3900609867232,40.937640980857,34.804214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>254</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">33.586829999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 06:43:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3895989867234,40.9377469808571,33.58683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>255</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">38.587685000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 06:44:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.389489986723,40.9380129808567,38.587685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>256</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">40.980075999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 06:45:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3893489867221,40.9386799808554,40.980076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>257</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">40.595210999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 06:45:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3893329867221,40.9386799808555,40.595211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>258</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.515942000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 06:47:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.388974986723,40.9382779808565,32.515942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>259</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.621029000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 06:47:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.388987986723,40.9382829808565,32.621029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>260</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">19.540835999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 06:50:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3888569867257,40.9366609808597,19.540836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>261</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">29.151043000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:55:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3888889867239,40.9377859808575,29.151043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>262</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">21.913367999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 06:56:59.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3908999867239,40.9367459808581,21.913368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>263</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">18.674084000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:58:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3908499867244,40.9364739808587,18.674084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>264</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">24.961811000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 06:58:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3906239867244,40.9365679808587,24.961811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>265</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">18.873158000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 06:59:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3901909867244,40.9368289808585,18.873158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>266</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">21.545044000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:01:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3896579867242,40.9371719808582,21.545044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>267</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">26.710880000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 07:04:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3891459867251,40.9368589808592,26.71088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>268</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">15.502411000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 07:05:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3892769867261,40.9361619808604,15.502411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>269</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">15.386024000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:07:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3895139867254,40.9364869808596,15.386024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>270</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.654593999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 07:08:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3896249867264,40.9358009808609,13.654594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>271</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">8.889454000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:09:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.389895986727,40.9353369808616,8.889454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>272</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">9.660702000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:11:04.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3904549867265,40.9353739808611,9.660702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>273</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">8.567944000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:12:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3908019867268,40.9349999808616,8.567944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>274</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">8.918892000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 07:13:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3906989867261,40.9355129808607,8.918892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>275</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">12.467987000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 07:15:08.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.390722986725,40.9361709808594,12.467987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>276</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">12.426375999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 07:15:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.390724986725,40.9361699808594,12.426376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>277</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">10.147216999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 07:17:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3910059867257,40.9355789808603,10.147217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>278</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">37.689968000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:07:50.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3966439867176,40.937864980852,37.689968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>279</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">47.227184000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:09:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3964059867179,40.9378149808523,47.227184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>280</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">46.341662999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 08:10:37.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3956479867184,40.9378579808527,46.341663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>281</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">46.424312999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 08:10:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3956209867184,40.9378529808528,46.424313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>282</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">34.416096000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 08:13:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3952809867188,40.9377989808531,34.416096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>283</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">35.990501000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 08:15:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3955969867182,40.9379919808525,35.990501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>284</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">38.758797000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:16:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3951099867184,40.9381139808526,38.758797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>285</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">43.372807000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 08:16:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3948839867184,40.9382629808525,43.372807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>286</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">45.149281000000002</SimpleData>
+		<SimpleData name="time">2015/04/17 08:17:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3946119867184,40.9383639808525,45.149281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>287</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">33.018752999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 08:18:31.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3936299867195,40.9382059808534,33.018753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>288</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.695580000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:18:32.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3936329867194,40.9382129808534,32.69558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>289</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">36.961174000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:19:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3942929867191,40.9380929808532,36.961174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>290</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.464882000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 08:23:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3912849867204,40.938750980854,32.464882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">47.796143000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:24:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3905119867211,40.9386959808546,47.796143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>292</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">43.052287999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 08:25:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3907769867214,40.938425980855,43.052288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>293</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.040481999999997</SimpleData>
+		<SimpleData name="time">2015/04/17 08:27:01.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3913979867217,40.9378679808556,32.040482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>294</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">31.746594999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:27:52.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3917439867218,40.9376839808558,31.746595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>295</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">30.926501999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:28:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3920639867216,40.9376519808556,30.926502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>296</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">31.322426000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:29:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3926089867215,40.9374209808557,31.322426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>297</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">26.856724000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:31:00.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3928919867215,40.9372799808557,26.856724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>298</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">24.823017000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:31:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927749867222,40.9369039808565,24.823017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>299</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">17.966252999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 08:32:28.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.392647986723,40.9364739808575,17.966253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">9.394531000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:34:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.391319986726,40.9352549808608,9.394531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">11.320194000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:35:56.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927269867252,40.9350799808602,11.320194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>302</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">11.431278000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:35:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927269867252,40.9350799808602,11.431278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">15.145401000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:37:39.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3932889867246,40.9351229808597,15.145401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>304</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">10.695050000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:38:43.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3936739867238,40.9354799808587,10.69505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.672222000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:39:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3934459867233,40.9358619808581,13.672222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.706993000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:39:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3934449867233,40.9358649808581,13.706993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">18.198136999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:42:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3939299867208,40.9372299808551,18.198137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">22.337361999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:43:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3946949867199,40.9373739808543,22.337362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">18.408322999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:46:09.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3934209867214,40.9370649808558,18.408323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">15.058141000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:46:54.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3934089867218,40.9368299808563,15.058141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">9.175133000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:48:05.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3933409867228,40.9362449808575,9.175133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>312</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">9.012193999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:48:41.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3933459867235,40.9357819808584,9.012194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>313</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">10.722305000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:49:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3927329867241,40.9357259808589,10.722305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>314</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">12.226082000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:51:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3920789867246,40.9357259808593,12.226082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>315</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">9.573962999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:52:45.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3916909867242,40.9361859808587,9.573963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">14.734214000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:53:34.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3924349867236,40.9362109808581,14.734214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>317</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">16.304932000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 08:54:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3928799867232,40.9362429808578,16.304932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>318</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.824935999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 08:55:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3939839867225,40.9361079808573,13.824936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>319</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">14.124554000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:56:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3945129867224,40.9359159808573,14.124554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>320</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">16.639315000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 08:58:33.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3969289867199,40.9362989808549,16.639315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>321</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">17.085792999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 09:00:03.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3962289867203,40.9364049808552,17.085793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>322</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">22.719528000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:01:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3957549867201,40.9367779808547,22.719528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>323</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">18.039566000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:02:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3958889867205,40.9364109808554,18.039566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>324</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">14.769985000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:03:46.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3954969867209,40.9363919808557,14.769985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>325</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.533060000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:04:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3950829867209,40.9365639808556,13.53306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>326</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.259543000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:05:36.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3946539867211,40.9366829808557,13.259543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>327</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">13.494286000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:05:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3946529867211,40.9366849808557,13.494286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>328</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">15.654305000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:07:44.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3937359867217,40.9367379808562,15.654305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>329</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">25.187038000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:08:58.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3923379867227,40.9368039808571,25.187038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>330</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">29.910958999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 09:09:53.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3918239867231,40.9368409808573,29.910959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>331</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">30.289940000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:11:17.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3920329867226,40.9370309808568,30.28994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>332</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">26.834665000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:12:06.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3911979867235,40.9368909808577,26.834665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>333</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">35.663764999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 09:14:10.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3925439867206,40.9380489808545,35.663765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>334</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">35.166854999999998</SimpleData>
+		<SimpleData name="time">2015/04/17 09:14:11.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3925699867206,40.9380369808545,35.166855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>335</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">32.124374000000003</SimpleData>
+		<SimpleData name="time">2015/04/17 09:15:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3932089867203,40.9378869808544,32.124374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>336</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">31.912544000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:15:57.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3932699867203,40.9378829808543,31.912544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>337</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">29.062815000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:17:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3938699867199,40.9377969808541,29.062815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>338</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">31.298836000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:18:12.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3941889867198,40.937712980854,31.298836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>339</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">30.288295999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 09:19:15.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3945579867197,40.9376249808539,30.288296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>340</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">30.763897000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:19:25.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3945749867197,40.937611980854,30.763897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>341</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">31.524249999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 09:20:40.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3953239867193,40.9374499808537,31.52425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>342</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">25.397034000000001</SimpleData>
+		<SimpleData name="time">2015/04/17 09:21:38.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3956399867192,40.9373989808536,25.397034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>343</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">24.892014000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:22:42.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3963169867189,40.9372369808535,24.892014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>344</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">23.813841000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:24:47.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.397353986719,40.9366469808539,23.813841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>345</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">23.799590999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 09:24:48.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.397377986719,40.9366319808539,23.799591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>346</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">21.183589999999999</SimpleData>
+		<SimpleData name="time">2015/04/17 09:26:55.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.397873986719,40.9363849808541,21.18359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>347</name>
+	<ExtendedData><SchemaData schemaUrl="#Vyronas_Bins">
+		<SimpleData name="ele">12.176663000000000</SimpleData>
+		<SimpleData name="time">2015/04/17 09:30:07.000</SimpleData>
+		<SimpleData name="sym">Flag, Blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3938179867245,40.9349779808596,12.176663</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
