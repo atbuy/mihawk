@@ -1,4 +1,3 @@
-import uuid
 from dataclasses import dataclass
 from typing import List
 
@@ -14,16 +13,12 @@ class Point:
     def __post_init__(self):
         """Generate a UUID for the object."""
 
-        self.uuid = uuid.uuid4().hex
+        self.uuid = hash(self.latitude + self.longitude + self.elevation)
 
     def __eq__(self, other: "Point") -> bool:
         """Check if two points are equal."""
 
-        lat = self.latitude == other.latitude
-        lon = self.longitude == other.longitude
-        ele = self.elevation == other.elevation
-
-        return lat and lon and ele
+        return self.uuid == other.uuid
 
     def __sub__(self, other: "Point") -> float:
         """Calculate the euclidean distance between two points."""

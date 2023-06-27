@@ -2,6 +2,8 @@ import warnings
 from abc import ABCMeta, abstractmethod
 from typing import List
 
+import numpy as np
+
 try:
     from matplotlib import pyplot as plt
     from matplotlib.axes import Axes
@@ -63,6 +65,7 @@ class NearestNeighborGraph(KMLGraph):
 
         least_distance = float("inf")
         shortest_path = None
+        self.points = np.array(self.points)
         for point in self.points:
             path = self.solve(point)
             if path.length < least_distance:
