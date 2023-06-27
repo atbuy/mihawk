@@ -2,10 +2,9 @@ import warnings
 from abc import ABCMeta, abstractmethod
 from typing import List
 
-from matplotlib.axes import Axes
-
 try:
     from matplotlib import pyplot as plt
+    from matplotlib.axes import Axes
 
     warnings.filterwarnings("ignore", module="matplotlib")
     plt.style.use("seaborn")
@@ -61,7 +60,6 @@ class NearestNeighborGraph(KMLGraph):
     def __init__(self, points: List[Point]):
         super().__init__(points)
         self.graph = self._build_graph()
-        print("Size:", self.size)
 
         least_distance = float("inf")
         shortest_path = None
@@ -129,6 +127,50 @@ class NearestNeighborGraph(KMLGraph):
         ax.plot(X, Y, Z, linewidth=0.5)
 
         ax.view_init(30, -115)
+
+        plt.title("Nearest Neighbor Graph")
+        plt.tight_layout()
+        plt.show()
+
+
+class MultiGraph:
+    """Used to visualize multiple graphs at once."""
+
+    def __init__(self, multi_data: List[List[Point]], filenames: List[str]):
+        self.multi = multi_data
+        self.graphs = [NearestNeighborGraph(data) for data in self.multi]
+        self.filenames = filenames
+
+    def visualize(self):
+        """Visualize all graphs in subplots"""
+
+        if not VISUALIZE:
+            warnings.warn("matplotlib is not installed. Skipping visualization.")
+            return
+
+        fig = plt.figure()
+        max_col = 5
+        leftover = len(self.graphs) % max_col
+        rows = (len(self.graphs) // max_col) + leftover
+        for i, graph in enumerate(self.graphs):
+            # Set the X, Y, Z coordinates
+            X = [point.latitude for point in graph.path]
+            Y = [point.longitude for point in graph.path]
+            Z = [point.elevation for point in graph.path]
+
+            # Plot the points and connect them
+            normal_x = X[1 : len(X) - 1]
+            normal_y = Y[1 : len(Y) - 1]
+            normal_z = Z[1 : len(Z) - 1]
+
+            ax = fig.add_subplot(rows, max_col, i + 1, projection="3d")
+            ax.scatter(X[0], Y[0], Z[0], color="red")
+            ax.scatter(X[-1], Y[-1], Z[-1], color="red")
+            ax.scatter(normal_x, normal_y, normal_z, linewidth=0.5)
+            ax.plot(X, Y, Z, linewidth=0.5)
+
+            ax.set_title(self.filenames[i])
+            ax.view_init(30, -115)
 
         plt.title("Nearest Neighbor Graph")
         plt.tight_layout()
