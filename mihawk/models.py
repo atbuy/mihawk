@@ -28,9 +28,9 @@ class Point:
     def __sub__(self, other: "Point") -> float:
         """Calculate the euclidean distance between two points."""
 
-        lat = (self.latitude - other.latitude) ** 2
-        lon = (self.longitude - other.longitude) ** 2
-        ele = (self.elevation - other.elevation) ** 2
+        lat = (other.latitude - self.latitude) ** 2
+        lon = (other.longitude - self.longitude) ** 2
+        ele = (other.elevation - self.elevation) ** 2
 
         return (lat + lon + ele) ** 0.5
 
