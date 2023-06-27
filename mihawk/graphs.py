@@ -81,6 +81,7 @@ class NearestNeighborGraph(KMLGraph):
         graph = {}
         for point in self.points:
             graph[point] = self.points.copy()
+            graph[point].remove(point)
             graph[point].sort(key=lambda x: get_distance(point, x))
 
         return graph
@@ -91,9 +92,11 @@ class NearestNeighborGraph(KMLGraph):
         # Loop over all points and use them as starting points
         # to find the shortest path.
         path = [start]
+        current = start
         while len(path) < self.size:
             current = path[-1]
-            for point in self.graph[current]:
+            neighbors = self.graph[current]
+            for point in neighbors:
                 if point not in path:
                     path.append(point)
                     break
@@ -116,13 +119,9 @@ class NearestNeighborGraph(KMLGraph):
         Z = [point.elevation for point in self.path]
 
         # Plot the points and connect them
-        end_x = len(X) - 1
-        end_y = len(Y) - 1
-        end_z = len(Z) - 1
-
-        normal_x = X[1:end_x]
-        normal_y = Y[1:end_y]
-        normal_z = Z[1:end_z]
+        normal_x = X[1 : len(X) - 1]
+        normal_y = Y[1 : len(Y) - 1]
+        normal_z = Z[1 : len(Z) - 1]
 
         ax.scatter(X[0], Y[0], Z[0], color="red")
         ax.scatter(X[-1], Y[-1], Z[-1], color="red")
