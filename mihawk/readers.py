@@ -9,13 +9,15 @@ class KMLReader:
         # Parse open KML file.
         # The caller is responsible for closing the file.
         dom = minidom.parse(file)
+        names = dom.getElementsByTagName("name")
         coordinates = dom.getElementsByTagName("coordinates")
 
         coords = []
-        for coord in coordinates:
-            text = coord.firstChild.nodeValue
-            values = self._clean_coords(text)
-            point = Point(*values)
+        for coord, name in zip(coordinates, names):
+            coordinates = coord.firstChild.nodeValue
+            name = name.firstChild.nodeValue
+            values = self._clean_coords(coordinates)
+            point = Point(*values, name=name)
             coords.append(point)
 
         self.points = coords

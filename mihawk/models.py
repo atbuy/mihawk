@@ -9,19 +9,12 @@ class Point:
     latitude: float
     longitude: float
     elevation: float
-
-    def __post_init__(self):
-        """Generate a UUID for the object."""
-
-        self.uuid = hash(self.latitude + self.longitude + self.elevation)
+    name: str = None
 
     def __eq__(self, other: "Point") -> bool:
         """Check if two points are equal."""
 
-        lat = self.latitude == other.latitude
-        lon = self.longitude == other.longitude
-        ele = self.elevation == other.elevation
-        return lat and lon and ele
+        return self.name == other.name
 
     def __sub__(self, other: "Point") -> float:
         """Calculate the euclidean distance between two points."""
@@ -35,7 +28,7 @@ class Point:
     def __hash__(self):
         """Return a hash of the UUID of the object."""
 
-        return hash(self.uuid)
+        return hash(self.name)
 
 
 @dataclass

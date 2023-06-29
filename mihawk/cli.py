@@ -43,6 +43,8 @@ def main():
     graph = NearestNeighborGraph(data.points)
     delta = time.perf_counter() - start
 
+    optimal_path = [int(p.name) for p in graph.path if p.name.isdigit()]
+    print(f"Optimal path: {optimal_path}")
     print(f"Graph: {graph}")
     print(f"Time: {delta:.5f}s")
 
