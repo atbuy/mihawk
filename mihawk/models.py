@@ -18,7 +18,10 @@ class Point:
     def __eq__(self, other: "Point") -> bool:
         """Check if two points are equal."""
 
-        return self.uuid == other.uuid
+        lat = self.latitude == other.latitude
+        lon = self.longitude == other.longitude
+        ele = self.elevation == other.elevation
+        return lat and lon and ele
 
     def __sub__(self, other: "Point") -> float:
         """Calculate the euclidean distance between two points."""

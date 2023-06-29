@@ -20,9 +20,8 @@ class KMLReader:
 
         self.points = coords
 
-    def _clean_coords(self, text: str) -> Generator[float]:
+    def _clean_coords(self, text: str) -> Generator[float, None, None]:
         """Clean coordinates from KML file."""
 
         coordinates = text.split(",")
-        cleaned = (float(coord) for coord in coordinates)
-        return cleaned
+        return (float(coord) for coord in coordinates)
