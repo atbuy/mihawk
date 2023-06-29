@@ -1,3 +1,4 @@
+from typing import Generator
 from xml.dom import minidom
 
 from mihawk.models import Point
@@ -19,7 +20,7 @@ class KMLReader:
 
         self.points = coords
 
-    def _clean_coords(self, text: str) -> list:
+    def _clean_coords(self, text: str) -> Generator[float]:
         """Clean coordinates from KML file."""
 
         coordinates = text.split(",")

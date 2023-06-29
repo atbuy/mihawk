@@ -5,6 +5,7 @@ description = "Pathfinding algorithms for optimized kados routing"
 authors = ["Your Name <you@example.com>"]
 license = "MIT"
 readme = "README.md"
+include = ["mihawk/static/*"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
